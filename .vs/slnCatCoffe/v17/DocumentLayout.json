@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|solutionrelative:prjcatcoffe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Program.cs",
+              "RelativeDocumentMoniker": "prjCatCoffe\\Program.cs",
+              "ToolTip": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Program.cs",
+              "RelativeToolTip": "prjCatCoffe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:47:11.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjCatCoffe", "prjCatCoffe\prjCatCoffe.csproj", "{A40D18AE-2A84-44A4-88CE-D8438BA35998}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A40D18AE-2A84-44A4-88CE-D8438BA35998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A40D18AE-2A84-44A4-88CE-D8438BA35998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A40D18AE-2A84-44A4-88CE-D8438BA35998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A40D18AE-2A84-44A4-88CE-D8438BA35998}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A16A5878-C74A-44CC-BF77-3D04B6C7FEE2}
+	EndGlobalSection
+EndGlobal
