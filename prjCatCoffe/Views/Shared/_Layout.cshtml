@@ -1,0 +1,245 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - prjCatCoffe</title>
+    <script type="importmap"></script>
+
+	<!-- 原本專案樣式 -->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/prjCatCoffe.styles.css" asp-append-version="true" />
+
+	<!-- AdminKit 字體與樣式 -->
+	<link href="~/adminkit/assets/css/app.css" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link rel="shortcut icon" href="img/icons/icon-48x48.png" />
+	<!-- 引用bs5 icon -->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+
+
+	<!-- 修改背景 -->
+	<style>
+		:root {
+			--bs-body-bg: #ffffff !important;
+			--bs-body-bg-rgb: 255, 255, 255 !important;
+		}
+
+		body {
+			background-color: var(--bs-body-bg) !important;
+			color: #000 !important;
+		}
+
+		.wrapper {
+			background-color: #ffffff !important;
+		}
+		/* 移除整個側邊欄與內容區塊的深背景 */
+		/* 如果你只想看到上面 sidebar 的底色，就設 transparent */
+		
+		/* ✅ 移除 sidebar「內容區塊」背景，但保留外層背景 */
+		.sidebar .sidebar-content,
+		.sidebar .sidebar-nav,
+		.sidebar .sidebar-item,
+		.sidebar .sidebar-link {
+			background: transparent !important;
+			background-color: transparent !important;
+		}
+
+			/* ✅ 移除 hover/active 背景 */
+			.sidebar-item.active > .sidebar-link,
+			.sidebar .sidebar-item:hover > .sidebar-link {
+				background: transparent !important;
+			}
+
+
+
+		/* 修改側邊欄整體底色 */
+		.sidebar {
+			/*
+			* Created with https://www.css-gradient.com
+			* Gradient link: https://www.css-gradient.com/?c1=94cac9&c2=e28ca6&gt=l&gd=dtt
+			*/
+			background: #94CAC9;
+			background: linear-gradient(180deg, #94CAC9, #E28CA6);
+			
+		}
+
+		/*修改文字配色*/
+		/* ✅ 基本字體黑色設定 */
+		.sidebar .sidebar-link,
+		.sidebar .sidebar-header,
+		.sidebar .align-middle {
+			color: #000 !important;
+			transition: background-color 0.3s ease, color 0.3s ease;
+			transition: transform 0.3s ease;
+		}
+
+		.sidebar .align-middle {
+			display: inline-block;
+		}
+
+		
+		/* ✅ 滑鼠 hover 時變成黃色 */
+		.sidebar .sidebar-link:hover,
+		.sidebar .sidebar-item:hover > .sidebar-link {
+			color: #FFC107 !important;
+			background-color: #fff3cd !important;
+			/* color: #ffe6a7 !important; /* Bootstrap 變色，可換其他 */ */
+			transition: all 0.3s ease;
+		}
+
+		.sidebar-link-content {
+			transition: transform 0.3s ease;
+		}
+
+		.sidebar-link:hover .sidebar-link-content {
+			transform: scale(1.2);
+		}
+	
+		
+		#navbar-heading {
+			background-color: #a2d2ff; /* Bootstrap 的 navbar-light 預設背景，可自行換顏色 */
+		}
+	</style>
+
+</head>
+<body>
+	<div class="wrapper">
+		<nav id="sidebar" class="sidebar js-sidebar">
+			<div class="sidebar-content js-simplebar">
+				<a class="sidebar-brand" href="index.html">
+					<div class="sidebar-link-content d-flex justify-content-center align-items-center gap-2 ">
+						<span class="align-middle">CatCoffe</span>
+						<img id="siderBarIcon" class="align-middle" data-feather="sliders" width="50" height="50" src="https://img.icons8.com/pastel-glyph/50/cat--v3.png" alt="cat--v3" />
+					
+					</div>
+					
+				</a>
+
+				<ul class="sidebar-nav text-center">
+					<li class="sidebar-header">
+						CRUD_MVC
+					</li>
+
+					<li class="sidebar-item active">
+						<a class="sidebar-link" asp-area="" asp-controller="Member" asp-action="List">					
+							<div class="sidebar-link-content d-flex justify-content-center align-items-center gap-2 ">
+								<img id="memberIcon" class="align-middle" data-feather="sliders" width=" 30" height="30" src="https://img.icons8.com/ios-glyphs/30/user--v1.png" alt="user--v1" />
+								<span class="align-middle">會員</span>
+							</div>
+						</a>
+					
+					</li>
+
+					<li class="sidebar-item">
+						<a class="sidebar-link" href="#">
+							<div class="sidebar-link-content d-flex justify-content-center align-items-center gap-2 ">
+								<img  id="caterIcon"  class="align-middle" data-feather="sliders" width="30" height="30" src="https://img.icons8.com/external-others-pike-picture/50/external-Caterer-business-others-pike-picture.png" alt="external-Caterer-business-others-pike-picture" />
+								<span class="align-middle">業者</span>
+							</div>
+						</a>
+					</li>
+
+					<li class="sidebar-item">
+						<a class="sidebar-link" href="#">
+							<div class="sidebar-link-content d-flex justify-content-center align-items-center gap-2 ">
+								<img id="catCoffeIcon" class="align-middle" data-feather="sliders" width="30" height="30" src="https://img.icons8.com/ios/50/restaurant.png" alt="restaurant" />
+								<span class="align-middle">餐廳</span>
+							</div>
+						</a>
+					</li>
+
+					<li class="sidebar-item">
+						<a class="sidebar-link" >
+							<div class="sidebar-link-content d-flex justify-content-center align-items-center gap-2 ">
+								<img id="reserveIcon" class="align-middle" data-feather="sliders" width="30" height="30" src="https://img.icons8.com/ios/50/purchase-order.png" alt="purchase-order" />
+								<span class="align-middle">預約</span>
+							</div>
+						</a>
+					</li>
+
+					<li class="sidebar-item">
+						<a class="sidebar-link" href="#">
+							<div class="sidebar-link-content d-flex justify-content-center align-items-center ">
+								<!-- 引用bs5 icon 要用fonsize設定 fs-3大約28px -->
+								<i id="orderIcon" class="align-middle align-items-center bi-cart-check-fill" style="font-size: 30px;" data-feather="sliders"></i>
+								<span class="align-middle">訂單</span>
+							</div>
+						</a>
+					</li>
+
+					
+				</ul>
+
+				
+			</div>
+	
+
+		
+			</nav>
+		<div class="main">
+			<nav class="navbar navbar-expand navbar-light navbar-bg" id="navbar-heading">
+
+			<div class="navbar-collapse collapse">
+				<ul class="navbar-nav navbar-align">
+
+					<li class="nav-item dropdown">
+						<a class="nav-icon dropdown-toggle d-inline-block d-sm-none" href="#" data-bs-toggle="dropdown">
+
+						</a>
+
+						<a class="nav-link dropdown-toggle d-none d-sm-inline-block" href="#" data-bs-toggle="dropdown">
+							<img src="~/images/Login.jpg"
+								 class="avatar img-fluid rounded me-1"
+								 style="clip-path: circle(50% at 50% 50%); width: 40px; height: 40px; object-fit: cover;"
+								 alt="登入小icon" />
+							<span class="text-dark">會員資訊</span>
+						</a>
+						<div class="dropdown-menu dropdown-menu-end">
+							<a class="dropdown-item" href="#">Login</a>
+
+
+							<div class="dropdown-divider"></div>
+							<a class="dropdown-item" href="#">Log out</a>
+						</div>
+					</li>
+				</ul>
+			</div>
+			</nav>
+
+			<div class="container my-3">
+				<main role="main" class="pb-3">
+					@RenderBody()
+				</main>
+			</div>
+
+			<footer class="border-top footer text-muted">
+				<div class="container">
+					&copy; 2025 - prjCatCoffe - <a asp-area="" asp-page="/Privacy">Privacy</a>
+				</div>
+			</footer>
+
+		</div>
+
+
+		</div>
+	</div>
+	
+
+
+
+
+	<script src="~/adminkit/assets/app.js"></script>
+
+	
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

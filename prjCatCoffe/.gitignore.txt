@@ -1,0 +1,19 @@
+﻿# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# VS settings folder
+.vs/
+
+# ASP.NET temporary files
+*.db
+*.db-shm
+*.db-wal
+*.vsidx
+
+# Visual Studio Code settings
+.vscode/

@@ -1,0 +1,116 @@
+﻿ @model IEnumerable<prjCatCoffe.Models.Member>
+
+@{
+    ViewData["Title"] = "List";
+}
+
+<h1>會員資料一覽表</h1>
+
+@*關鍵字*@
+@using (Html.BeginForm())
+{
+    <p>
+        關鍵字 @Html.TextBox("txtKeyword") <input type="submit" value="查詢" />
+    </p>
+}
+
+<p>
+    <a asp-action="Create">新增會員</a>
+</p>
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>
+                序號
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImageUrl)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Account)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+           
+            <th>
+                @Html.DisplayNameFor(model => model.IsCaterer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedAt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UpdatedAt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int count = 0;
+            foreach (var item in Model)
+            {
+                count++;
+                <tr>                  
+                    <td>
+                        @count
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        <img src="~/images/member_phtos/@item.ImageUrl" width="80" height="50" />
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Account)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Phone)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Gender)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Email)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ImageUrl)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.IsCaterer)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CreatedAt)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.UpdatedAt)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Status)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.MemberId }) |
+                        @Html.ActionLink("刪除", "Delete", "Customer", new { id = item.MemberId },
+                             new { onclick = "return confirm('確定要刪除這筆客戶資料嗎?')" })
+
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+
