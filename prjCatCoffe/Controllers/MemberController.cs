@@ -6,6 +6,13 @@ namespace prjCatCoffe.Controllers
 {
     public class MemberController : Controller
     {
+        private IWebHostEnvironment _enviro;
+
+        public MemberController(IWebHostEnvironment p)
+        {
+            _enviro = p;
+        }
+
         public IActionResult List(CkeyWordViewModel vm)
         {
             string keyword = vm.txtKeyword;
@@ -22,6 +29,26 @@ namespace prjCatCoffe.Controllers
                 datas = db.Members.Where(m => m.Name.Contains(keyword));
 
             return View(datas);
+        }
+
+        // GET: Member
+        public IActionResult Create()
+        {
+            //傳遞資料到View
+            return View();
+        }
+
+        //Member Post 新增會員
+        [HttpPost]
+        public IActionResult Create(Member m)
+        {
+            //LINQ ENtityFramework
+            CatCafeDbContext db = new CatCafeDbContext();
+            db.Members.Add(m);
+            //存資料庫
+            db.SaveChanges();
+            //傳遞資料到View
+            return RedirectToAction("List");
         }
     }
 }

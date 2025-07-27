@@ -505,5 +505,6 @@ public partial class CatCafeDbContext : DbContext
         OnModelCreatingPartial(modelBuilder);
     }
 
-    partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
+    public void OnModelCreatingPartial(ModelBuilder modelBuilder)
+    { }
 }

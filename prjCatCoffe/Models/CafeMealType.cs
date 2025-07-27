@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace prjCatCoffe.Models;
 
 public partial class CafeMealType
 {
+    [Column("type_id")]
     public int TypeId { get; set; }
 
     public string Name { get; set; } = null!;
