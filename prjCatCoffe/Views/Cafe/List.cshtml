@@ -1,0 +1,109 @@
+﻿@model IEnumerable<prjCatCoffe.Models.Cafe>
+
+@{
+    ViewData["Title"] = "List";
+}
+
+<h1>餐廳一覽表</h1>
+
+@*關鍵字*@
+@using (Html.BeginForm())
+{
+    <p>
+        關鍵字 @Html.TextBox("txtKeyword") <input type="submit" value="查詢" />
+    </p>
+}
+<p>
+<p>
+    <a asp-action="Create">新增餐廳</a>
+</p>
+    @section Styles {
+    <style>
+        table th, table td {
+            text-align: center; /* 水平置中 */
+            vertical-align: middle; /* 垂直置中 */
+        }
+
+        th {
+            white-space: nowrap;
+        }
+    </style>
+
+  }
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>
+                序號
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CaterId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedAt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UpdatedAt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@{
+    int count = 0;
+    foreach (var item in Model) {
+                    count++;
+        <tr>
+            <td>
+                @count
+            </td>
+            <td>
+                    @item.Cater?.CatererId
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedAt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UpdatedAt)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => @item.StatusDisplay)
+            </td>
+            <td>
+              
+                @Html.ActionLink("編輯", "Edit", "Cafe", new { id = item.CafeId }, null) |
+                @Html.ActionLink("刪除", "Delete", "Cafe", new { id = item.CafeId },
+                        new { onclick = "return confirm('確定要刪除這筆餐廳資料嗎?')" })
+            </td>
+        </tr>
+    }
+}
+    </tbody>
+</table>

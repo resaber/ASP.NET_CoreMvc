@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zCXNe17MdxKcFr4xRdUr8baUed5GzkFqUGW2tzBdjW0=",
+  "Hash": "yBuMVyc+sMDAaMQTJTRFxQIORyn47hthmuF8+d1D3Fo=",
   "Source": "prjCatCoffe",
   "BasePath": "_content/prjCatCoffe",
   "Mode": "Default",
@@ -57,6 +57,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\obj\\Debug\\net9.0\\compressed\\1u8sp1f6of-kv1izj79ss.gz",
+      "SourceId": "prjCatCoffe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/prjCatCoffe",
+      "RelativePath": "css/Layout#[.{fingerprint=kv1izj79ss}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\css\\Layout.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "e5tqe2rlpq",
+      "Integrity": "7uMNVSW8vKXrjuecDUFBjY/j7Ah7nI2kaxOWjLJg8Qo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\css\\Layout.css"
     },
     {
       "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\obj\\Debug\\net9.0\\compressed\\1zdlda8hyi-ausgxo2sd3.gz",
@@ -1823,6 +1844,27 @@
       "OriginalItemSpec": "wwwroot\\adminkit\\assets\\js\\app.js.map"
     },
     {
+      "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\css\\Layout.css",
+      "SourceId": "prjCatCoffe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\",
+      "BasePath": "_content/prjCatCoffe",
+      "RelativePath": "css/Layout#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kv1izj79ss",
+      "Integrity": "ALktP0MYG3QbgLZzGW7v8GFl5CbAhawG5VNwrk6ms3Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Layout.css"
+    },
+    {
       "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\css\\site.css",
       "SourceId": "prjCatCoffe",
       "SourceType": "Discovered",
@@ -1884,6 +1926,111 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Login.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\62d3604f-2c26-4246-bac5-9d0993095d95.png",
+      "SourceId": "prjCatCoffe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\",
+      "BasePath": "_content/prjCatCoffe",
+      "RelativePath": "images/member_photos/62d3604f-2c26-4246-bac5-9d0993095d95#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oxdghomgnx",
+      "Integrity": "dOR2LRk0iab4hJUa8vRoloKYTsbExvOl0C8oa1Xv4hE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\member_photos\\62d3604f-2c26-4246-bac5-9d0993095d95.png"
+    },
+    {
+      "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\70b9e4a5-bbaa-4ca3-a1ad-0435f5a7fe73.jpg",
+      "SourceId": "prjCatCoffe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\",
+      "BasePath": "_content/prjCatCoffe",
+      "RelativePath": "images/member_photos/70b9e4a5-bbaa-4ca3-a1ad-0435f5a7fe73#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5wiwtrxvn2",
+      "Integrity": "pYA3DcGsYtEBSgjS3gfw5UdnYYRDtm1JmoVBYezMKww=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\member_photos\\70b9e4a5-bbaa-4ca3-a1ad-0435f5a7fe73.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\7973112d-e361-41a9-807a-3de930e1aff3.png",
+      "SourceId": "prjCatCoffe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\",
+      "BasePath": "_content/prjCatCoffe",
+      "RelativePath": "images/member_photos/7973112d-e361-41a9-807a-3de930e1aff3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w5m8kjxv94",
+      "Integrity": "zE3LINDzXG33Dh0HrLETl4URJhonCPTL3/VmnenO0R0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\member_photos\\7973112d-e361-41a9-807a-3de930e1aff3.png"
+    },
+    {
+      "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\9661fbb7-c652-4b67-a5d9-00be085505de.jpg",
+      "SourceId": "prjCatCoffe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\",
+      "BasePath": "_content/prjCatCoffe",
+      "RelativePath": "images/member_photos/9661fbb7-c652-4b67-a5d9-00be085505de#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d8duozzlyr",
+      "Integrity": "g232qOmFp1CbiOSHM7rvZjjYwYnbcvc5kg+ywtC1BwA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\member_photos\\9661fbb7-c652-4b67-a5d9-00be085505de.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\e79af069-9395-4d69-b6ca-26217c67ccee.png",
+      "SourceId": "prjCatCoffe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\",
+      "BasePath": "_content/prjCatCoffe",
+      "RelativePath": "images/member_photos/e79af069-9395-4d69-b6ca-26217c67ccee#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "68tqddcfdq",
+      "Integrity": "dhdaoSa2Y7Um4CapesT6z99KRhukTTU33qduW2ua/L4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\member_photos\\e79af069-9395-4d69-b6ca-26217c67ccee.png"
     },
     {
       "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\js\\site.js",
@@ -5479,6 +5626,304 @@
       ]
     },
     {
+      "Route": "css/Layout.css",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\obj\\Debug\\net9.0\\compressed\\1u8sp1f6of-kv1izj79ss.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001071811361"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "932"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7uMNVSW8vKXrjuecDUFBjY/j7Ah7nI2kaxOWjLJg8Qo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 18:31:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ALktP0MYG3QbgLZzGW7v8GFl5CbAhawG5VNwrk6ms3Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ALktP0MYG3QbgLZzGW7v8GFl5CbAhawG5VNwrk6ms3Q="
+        }
+      ]
+    },
+    {
+      "Route": "css/Layout.css",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\css\\Layout.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2319"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ALktP0MYG3QbgLZzGW7v8GFl5CbAhawG5VNwrk6ms3Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 18:31:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ALktP0MYG3QbgLZzGW7v8GFl5CbAhawG5VNwrk6ms3Q="
+        }
+      ]
+    },
+    {
+      "Route": "css/Layout.css.gz",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\obj\\Debug\\net9.0\\compressed\\1u8sp1f6of-kv1izj79ss.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "932"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7uMNVSW8vKXrjuecDUFBjY/j7Ah7nI2kaxOWjLJg8Qo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 18:31:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7uMNVSW8vKXrjuecDUFBjY/j7Ah7nI2kaxOWjLJg8Qo="
+        }
+      ]
+    },
+    {
+      "Route": "css/Layout.kv1izj79ss.css",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\obj\\Debug\\net9.0\\compressed\\1u8sp1f6of-kv1izj79ss.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001071811361"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "932"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7uMNVSW8vKXrjuecDUFBjY/j7Ah7nI2kaxOWjLJg8Qo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 18:31:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ALktP0MYG3QbgLZzGW7v8GFl5CbAhawG5VNwrk6ms3Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kv1izj79ss"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Layout.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ALktP0MYG3QbgLZzGW7v8GFl5CbAhawG5VNwrk6ms3Q="
+        }
+      ]
+    },
+    {
+      "Route": "css/Layout.kv1izj79ss.css",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\css\\Layout.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2319"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ALktP0MYG3QbgLZzGW7v8GFl5CbAhawG5VNwrk6ms3Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 18:31:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kv1izj79ss"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Layout.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ALktP0MYG3QbgLZzGW7v8GFl5CbAhawG5VNwrk6ms3Q="
+        }
+      ]
+    },
+    {
+      "Route": "css/Layout.kv1izj79ss.css.gz",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\obj\\Debug\\net9.0\\compressed\\1u8sp1f6of-kv1izj79ss.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "932"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7uMNVSW8vKXrjuecDUFBjY/j7Ah7nI2kaxOWjLJg8Qo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 18:31:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kv1izj79ss"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Layout.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7uMNVSW8vKXrjuecDUFBjY/j7Ah7nI2kaxOWjLJg8Qo="
+        }
+      ]
+    },
+    {
       "Route": "css/site.b9sayid5wm.css",
       "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\obj\\Debug\\net9.0\\compressed\\e46wkogbow-b9sayid5wm.gz",
       "Selectors": [
@@ -6153,6 +6598,416 @@
         {
           "Name": "integrity",
           "Value": "sha256-A81sFENIWbtn+eAh0RR1+HD7CX01CPByI+CVyqPwnAc="
+        }
+      ]
+    },
+    {
+      "Route": "images/member_photos/62d3604f-2c26-4246-bac5-9d0993095d95.oxdghomgnx.png",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\62d3604f-2c26-4246-bac5-9d0993095d95.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2251582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dOR2LRk0iab4hJUa8vRoloKYTsbExvOl0C8oa1Xv4hE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 09:38:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oxdghomgnx"
+        },
+        {
+          "Name": "label",
+          "Value": "images/member_photos/62d3604f-2c26-4246-bac5-9d0993095d95.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dOR2LRk0iab4hJUa8vRoloKYTsbExvOl0C8oa1Xv4hE="
+        }
+      ]
+    },
+    {
+      "Route": "images/member_photos/62d3604f-2c26-4246-bac5-9d0993095d95.png",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\62d3604f-2c26-4246-bac5-9d0993095d95.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2251582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dOR2LRk0iab4hJUa8vRoloKYTsbExvOl0C8oa1Xv4hE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 09:38:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dOR2LRk0iab4hJUa8vRoloKYTsbExvOl0C8oa1Xv4hE="
+        }
+      ]
+    },
+    {
+      "Route": "images/member_photos/70b9e4a5-bbaa-4ca3-a1ad-0435f5a7fe73.5wiwtrxvn2.jpg",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\70b9e4a5-bbaa-4ca3-a1ad-0435f5a7fe73.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3051"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pYA3DcGsYtEBSgjS3gfw5UdnYYRDtm1JmoVBYezMKww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 18:18:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5wiwtrxvn2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/member_photos/70b9e4a5-bbaa-4ca3-a1ad-0435f5a7fe73.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pYA3DcGsYtEBSgjS3gfw5UdnYYRDtm1JmoVBYezMKww="
+        }
+      ]
+    },
+    {
+      "Route": "images/member_photos/70b9e4a5-bbaa-4ca3-a1ad-0435f5a7fe73.jpg",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\70b9e4a5-bbaa-4ca3-a1ad-0435f5a7fe73.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3051"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pYA3DcGsYtEBSgjS3gfw5UdnYYRDtm1JmoVBYezMKww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 18:18:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pYA3DcGsYtEBSgjS3gfw5UdnYYRDtm1JmoVBYezMKww="
+        }
+      ]
+    },
+    {
+      "Route": "images/member_photos/7973112d-e361-41a9-807a-3de930e1aff3.png",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\7973112d-e361-41a9-807a-3de930e1aff3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zE3LINDzXG33Dh0HrLETl4URJhonCPTL3/VmnenO0R0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 15:41:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zE3LINDzXG33Dh0HrLETl4URJhonCPTL3/VmnenO0R0="
+        }
+      ]
+    },
+    {
+      "Route": "images/member_photos/7973112d-e361-41a9-807a-3de930e1aff3.w5m8kjxv94.png",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\7973112d-e361-41a9-807a-3de930e1aff3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zE3LINDzXG33Dh0HrLETl4URJhonCPTL3/VmnenO0R0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 15:41:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w5m8kjxv94"
+        },
+        {
+          "Name": "label",
+          "Value": "images/member_photos/7973112d-e361-41a9-807a-3de930e1aff3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zE3LINDzXG33Dh0HrLETl4URJhonCPTL3/VmnenO0R0="
+        }
+      ]
+    },
+    {
+      "Route": "images/member_photos/9661fbb7-c652-4b67-a5d9-00be085505de.d8duozzlyr.jpg",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\9661fbb7-c652-4b67-a5d9-00be085505de.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6532"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g232qOmFp1CbiOSHM7rvZjjYwYnbcvc5kg+ywtC1BwA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 09:33:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d8duozzlyr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/member_photos/9661fbb7-c652-4b67-a5d9-00be085505de.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-g232qOmFp1CbiOSHM7rvZjjYwYnbcvc5kg+ywtC1BwA="
+        }
+      ]
+    },
+    {
+      "Route": "images/member_photos/9661fbb7-c652-4b67-a5d9-00be085505de.jpg",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\9661fbb7-c652-4b67-a5d9-00be085505de.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6532"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g232qOmFp1CbiOSHM7rvZjjYwYnbcvc5kg+ywtC1BwA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 09:33:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g232qOmFp1CbiOSHM7rvZjjYwYnbcvc5kg+ywtC1BwA="
+        }
+      ]
+    },
+    {
+      "Route": "images/member_photos/e79af069-9395-4d69-b6ca-26217c67ccee.68tqddcfdq.png",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\e79af069-9395-4d69-b6ca-26217c67ccee.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "211083"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dhdaoSa2Y7Um4CapesT6z99KRhukTTU33qduW2ua/L4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 17:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "68tqddcfdq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/member_photos/e79af069-9395-4d69-b6ca-26217c67ccee.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dhdaoSa2Y7Um4CapesT6z99KRhukTTU33qduW2ua/L4="
+        }
+      ]
+    },
+    {
+      "Route": "images/member_photos/e79af069-9395-4d69-b6ca-26217c67ccee.png",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\e79af069-9395-4d69-b6ca-26217c67ccee.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "211083"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dhdaoSa2Y7Um4CapesT6z99KRhukTTU33qduW2ua/L4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 17:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dhdaoSa2Y7Um4CapesT6z99KRhukTTU33qduW2ua/L4="
         }
       ]
     },

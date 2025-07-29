@@ -65,6 +65,10 @@
       "PackagePath": "staticwebassets\\adminkit\\assets\\js\\app.js.map"
     },
     {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\css\\Layout.css",
+      "PackagePath": "staticwebassets\\css\\Layout.css"
+    },
+    {
       "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -75,6 +79,26 @@
     {
       "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\Login.jpg",
       "PackagePath": "staticwebassets\\images\\Login.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\62d3604f-2c26-4246-bac5-9d0993095d95.png",
+      "PackagePath": "staticwebassets\\images\\member_photos\\62d3604f-2c26-4246-bac5-9d0993095d95.png"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\70b9e4a5-bbaa-4ca3-a1ad-0435f5a7fe73.jpg",
+      "PackagePath": "staticwebassets\\images\\member_photos\\70b9e4a5-bbaa-4ca3-a1ad-0435f5a7fe73.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\7973112d-e361-41a9-807a-3de930e1aff3.png",
+      "PackagePath": "staticwebassets\\images\\member_photos\\7973112d-e361-41a9-807a-3de930e1aff3.png"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\9661fbb7-c652-4b67-a5d9-00be085505de.jpg",
+      "PackagePath": "staticwebassets\\images\\member_photos\\9661fbb7-c652-4b67-a5d9-00be085505de.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\e79af069-9395-4d69-b6ca-26217c67ccee.png",
+      "PackagePath": "staticwebassets\\images\\member_photos\\e79af069-9395-4d69-b6ca-26217c67ccee.png"
     },
     {
       "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\js\\site.js",

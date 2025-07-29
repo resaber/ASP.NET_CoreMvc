@@ -58,31 +58,31 @@
             set { _member.Email = value; }
         }
 
-        public string Image_url
+        public string ImageUrl
         {
             get { return _member.ImageUrl; }
             set { _member.ImageUrl = value; }
         }
 
-        public bool Is_caterer
+        public bool IsCaterer
         {
             get { return _member.IsCaterer; }
             set { _member.IsCaterer = value; }
         }
 
-        public DateTime created_at
+        public DateTime CreatedAt
         {
             get { return _member.CreatedAt; }
             set { _member.CreatedAt = value; }
         }
 
-        public DateTime updated_at
+        public DateTime UpdatedAt
         {
             get { return _member.UpdatedAt; }
             set { _member.UpdatedAt = value; }
         }
 
-        public bool status
+        public bool Status
         {
             get { return _member.Status; }
             set { _member.Status = value; }

@@ -1,0 +1,118 @@
+﻿@model IEnumerable<prjCatCoffe.Models.CafeMeal>
+
+@{
+    ViewData["Title"] = "List";
+}
+
+<h1>餐點一覽表</h1>
+@*關鍵字*@
+@using (Html.BeginForm())
+{
+    <p>
+        關鍵字 @Html.TextBox("txtKeyword") <input type="submit" value="查詢" />
+    </p>
+}
+
+<p>
+    <a asp-action="Create">新增料理</a>
+</p>
+@section Styles {
+    <style>
+        table th, table td {
+            text-align: center; /* 水平置中 */
+            vertical-align: middle; /* 垂直置中 */
+        }
+
+        th {
+            white-space: nowrap;
+        }
+    </style>
+
+  }
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                序號
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CafeId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TypeId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MealName)
+            </th>
+             <th>
+                @Html.DisplayNameFor(model => model.ImageUrl)
+            </th>
+            
+            
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+           
+           
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedAt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UpdatedAt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsActive)
+            </th>
+         
+        </tr>
+    </thead>
+    <tbody>
+@{
+            int count = 0;
+    foreach (var item in Model) {
+                count++;
+        <tr>
+            <td>
+                @count
+            <td>
+                @Html.DisplayFor(modelItem => item.CafeId)
+            </td>
+            <td>
+                 @Html.DisplayFor(modelItem => item.TypeId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MealName)
+            </td>
+            <td>
+                <img src="~/images/Meal_Singlephoto/@item.ImageUrl" width="80" height="50" />
+            </td>
+         
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+    
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedAt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UpdatedAt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => @item.IsActiveDisplay)
+            </td>
+            <td>
+                @Html.ActionLink("編輯", "Edit", "CafeMeal", new { id = item.MealId }, null)
+                @Html.ActionLink("刪除", "Delete", "CafeMeal", new { id = item.MealId },
+                        new { onclick = "return confirm('要刪除這筆會員資料嗎?')" })
+            </td>
+        </tr>
+    }
+}
+    </tbody>
+</table>

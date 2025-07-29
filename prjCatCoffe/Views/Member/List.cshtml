@@ -88,7 +88,7 @@
                         @Html.DisplayFor(modelItem => item.Name)
                     </td>
                     <td>
-                        <img src="~/images/member_phtos/@item.ImageUrl" width="80" height="50" />
+                        <img src="~/images/member_photos/@item.ImageUrl" width="80" height="50" />
                     </td>
                     <td>
                         @Html.DisplayFor(modelItem => item.Account)
@@ -98,16 +98,14 @@
                         @Html.DisplayFor(modelItem => item.Phone)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => item.Gender)
+                        @item.GenderDisplay
                     </td>
                     <td>
                         @Html.DisplayFor(modelItem => item.Email)
                     </td>
+                    
                     <td>
-                        @Html.DisplayFor(modelItem => item.ImageUrl)
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.IsCaterer)
+                        @Html.DisplayFor(modelItem => @item.IsCatererDisplay)
                     </td>
                     <td>
                         @Html.DisplayFor(modelItem => item.CreatedAt)
@@ -116,12 +114,12 @@
                         @Html.DisplayFor(modelItem => item.UpdatedAt)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => item.Status)
+                        @Html.DisplayFor(modelItem => @item.StatusDisplay)
                     </td>
                     <td>
-                        @Html.ActionLink("Edit", "Edit", new { id = item.MemberId }) |
-                        @Html.ActionLink("刪除", "Delete", "Customer", new { id = item.MemberId },
-                             new { onclick = "return confirm('確定要刪除這筆客戶資料嗎?')" })
+                        @Html.ActionLink("編輯", "Edit", "Member", new { id = item.MemberId },null)
+                        @Html.ActionLink("刪除", "Delete", "Member", new { id = item.MemberId }, 
+                             new { onclick = "return confirm('要刪除這筆會員資料嗎?')" })
 
                     </td>
                 </tr>

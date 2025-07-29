@@ -345,3 +345,4 @@ C:\Users\yozora\Desktop\ASP_MVC_Core專案\slnCatCoffe\prjCatCoffe\bin\Debug\net
 C:\Users\yozora\Desktop\ASP_MVC_Core專案\slnCatCoffe\prjCatCoffe\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\yozora\Desktop\ASP_MVC_Core專案\slnCatCoffe\prjCatCoffe\obj\Debug\net9.0\compressed\xhsqltyi63-nac1v30vt0.gz
 C:\Users\yozora\Desktop\ASP_MVC_Core專案\slnCatCoffe\prjCatCoffe\obj\Debug\net9.0\compressed\8ls52uh7bl-nac1v30vt0.gz
+C:\Users\yozora\Desktop\ASP_MVC_Core專案\slnCatCoffe\prjCatCoffe\obj\Debug\net9.0\compressed\1u8sp1f6of-kv1izj79ss.gz

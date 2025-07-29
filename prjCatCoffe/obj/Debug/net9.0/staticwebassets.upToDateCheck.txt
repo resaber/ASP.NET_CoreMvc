@@ -1,5 +1,6 @@
 C:\Users\yozora\Desktop\ASP_MVC_Core專案\slnCatCoffe\prjCatCoffe\wwwroot\adminkit\assets\js\app.js.LICENSE.txt
 C:\Users\yozora\Desktop\ASP_MVC_Core專案\slnCatCoffe\prjCatCoffe\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\yozora\Desktop\ASP_MVC_Core專案\slnCatCoffe\prjCatCoffe\wwwroot\css\Layout.css
 C:\Users\yozora\Desktop\ASP_MVC_Core專案\slnCatCoffe\prjCatCoffe\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
 C:\Users\yozora\Desktop\ASP_MVC_Core專案\slnCatCoffe\prjCatCoffe\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
 C:\Users\yozora\Desktop\ASP_MVC_Core專案\slnCatCoffe\prjCatCoffe\wwwroot\lib\jquery\dist\jquery.min.map
@@ -80,9 +81,15 @@ wwwroot\adminkit\assets\img\photos\unsplash-3.jpg
 wwwroot\adminkit\assets\js\app.js
 wwwroot\adminkit\assets\js\app.js.LICENSE.txt
 wwwroot\adminkit\assets\js\app.js.map
+wwwroot\css\Layout.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\images\Login.jpg
+wwwroot\images\member_photos\62d3604f-2c26-4246-bac5-9d0993095d95.png
+wwwroot\images\member_photos\70b9e4a5-bbaa-4ca3-a1ad-0435f5a7fe73.jpg
+wwwroot\images\member_photos\7973112d-e361-41a9-807a-3de930e1aff3.png
+wwwroot\images\member_photos\9661fbb7-c652-4b67-a5d9-00be085505de.jpg
+wwwroot\images\member_photos\e79af069-9395-4d69-b6ca-26217c67ccee.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

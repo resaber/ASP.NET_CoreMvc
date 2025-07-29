@@ -1,0 +1,92 @@
+﻿<!--修改背景 -->
+
+:root {
+    --bs-body-bg: #ffffff !important;
+    --bs-body-bg-rgb: 255, 255, 255 !important;
+}
+
+body {
+    background-color: var(--bs-body-bg) !important;
+    color: #000 !important;
+}
+
+.wrapper {
+    background-color: #ffffff !important;
+}
+/* 移除整個側邊欄與內容區塊的深背景 */
+/* 如果你只想看到上面 sidebar 的底色，就設 transparent */
+
+/* ✅ 移除 sidebar「內容區塊」背景，但保留外層背景 */
+.sidebar .sidebar-content,
+.sidebar .sidebar-nav,
+.sidebar .sidebar-item,
+.sidebar .sidebar-link {
+    background: transparent !important;
+    background-color: transparent !important;
+}
+
+    /* ✅ 移除 hover/active 背景 */
+    .sidebar-item.active > .sidebar-link,
+    .sidebar .sidebar-item:hover > .sidebar-link {
+        background: transparent !important;
+    }
+
+
+
+/* 修改側邊欄整體底色 */
+.sidebar {
+    /*
+			* Created with https://www.css-gradient.com
+			* Gradient link: https://www.css-gradient.com/?c1=94cac9&c2=e28ca6&gt=l&gd=dtt
+			*/
+    background: #94CAC9;
+    background: linear-gradient(180deg, #94CAC9, #E28CA6);
+}
+
+    /*修改文字配色*/
+    /* ✅ 基本字體黑色設定 */
+    .sidebar .sidebar-link,
+    .sidebar .sidebar-header,
+    .sidebar .align-middle,
+    #cafeSubmenu .sidebar-link {
+        color: #000 !important;
+        transition: background-color 0.3s ease, color 0.3s ease,transform 0.3s ease;
+    }
+
+    .sidebar .align-middle {
+        display: inline-block;
+    }
+
+
+    /* ✅ 滑鼠 hover 時變成黃色 */
+    .sidebar .sidebar-link:hover,
+    .sidebar .sidebar-item:hover > .sidebar-link {
+        color: #FFC107 !important;
+        background-color: #fff3cd !important;
+        /* color: #ffe6a7 !important; /* Bootstrap 變色，可換其他 */ */ transition: all 0.3s ease;
+    }
+
+.sidebar-link-content {
+    transition: transform 0.3s ease;
+}
+
+
+
+.sidebar-link:hover .sidebar-link-content {
+    transform: scale(1.2);
+}
+
+
+#navbar-heading {
+    background-color: #a2d2ff; /* Bootstrap 的 navbar-light 預設背景，可自行換顏色 */
+}
+
+/* 箭頭摺疊動畫 */
+.transition-rotate {
+    transition: transform 0.3s ease;
+}
+
+.rotate90 {
+    transform: rotate(90deg); /* 往上展開 */
+}
+
