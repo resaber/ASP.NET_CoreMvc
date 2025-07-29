@@ -1,0 +1,421 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\prjCatCoffe.bundle.scp.css",
+      "PackagePath": "staticwebassets\\prjCatCoffe.nac1v30vt0.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\adminkit\\assets\\css\\app.css",
+      "PackagePath": "staticwebassets\\adminkit\\assets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\adminkit\\assets\\css\\app.css.map",
+      "PackagePath": "staticwebassets\\adminkit\\assets\\css\\app.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\adminkit\\assets\\fonts\\.gitkeep",
+      "PackagePath": "staticwebassets\\adminkit\\assets\\fonts\\.gitkeep"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\adminkit\\assets\\img\\avatars\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\adminkit\\assets\\img\\avatars\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\adminkit\\assets\\img\\avatars\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\adminkit\\assets\\img\\avatars\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\adminkit\\assets\\img\\avatars\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\adminkit\\assets\\img\\avatars\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\adminkit\\assets\\img\\avatars\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\adminkit\\assets\\img\\avatars\\avatar-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\adminkit\\assets\\img\\avatars\\avatar.jpg",
+      "PackagePath": "staticwebassets\\adminkit\\assets\\img\\avatars\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\adminkit\\assets\\img\\icons\\icon-48x48.png",
+      "PackagePath": "staticwebassets\\adminkit\\assets\\img\\icons\\icon-48x48.png"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\adminkit\\assets\\img\\photos\\unsplash-1.jpg",
+      "PackagePath": "staticwebassets\\adminkit\\assets\\img\\photos\\unsplash-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\adminkit\\assets\\img\\photos\\unsplash-2.jpg",
+      "PackagePath": "staticwebassets\\adminkit\\assets\\img\\photos\\unsplash-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\adminkit\\assets\\img\\photos\\unsplash-3.jpg",
+      "PackagePath": "staticwebassets\\adminkit\\assets\\img\\photos\\unsplash-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\adminkit\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\adminkit\\assets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\adminkit\\assets\\js\\app.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\adminkit\\assets\\js\\app.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\adminkit\\assets\\js\\app.js.map",
+      "PackagePath": "staticwebassets\\adminkit\\assets\\js\\app.js.map"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\css\\Layout.css",
+      "PackagePath": "staticwebassets\\css\\Layout.css"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\Caterer_photo\\default-caterer.jpg",
+      "PackagePath": "staticwebassets\\images\\Caterer_photo\\default-caterer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\Login.jpg",
+      "PackagePath": "staticwebassets\\images\\Login.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\Meal_Singlephoto\\57f3f9e3-85c1-4eeb-8ddd-727cb60bbdda.jpg",
+      "PackagePath": "staticwebassets\\images\\Meal_Singlephoto\\57f3f9e3-85c1-4eeb-8ddd-727cb60bbdda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\Meal_Singlephoto\\882ee9e2-b7e5-4378-b6f3-9cac6d54e269.jpg",
+      "PackagePath": "staticwebassets\\images\\Meal_Singlephoto\\882ee9e2-b7e5-4378-b6f3-9cac6d54e269.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\Meal_Singlephoto\\afe5cf20-b8d3-4826-922f-84ba40a9ceda.jpg",
+      "PackagePath": "staticwebassets\\images\\Meal_Singlephoto\\afe5cf20-b8d3-4826-922f-84ba40a9ceda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\Meal_Singlephoto\\c48025fd-701a-4cd1-8b06-e932cacdd34f.jpg",
+      "PackagePath": "staticwebassets\\images\\Meal_Singlephoto\\c48025fd-701a-4cd1-8b06-e932cacdd34f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\Meal_Singlephoto\\dccb3f37-09e0-4161-96f4-e803e3ffa28d.jpg",
+      "PackagePath": "staticwebassets\\images\\Meal_Singlephoto\\dccb3f37-09e0-4161-96f4-e803e3ffa28d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\Meal_Singlephoto\\fdd3d66e-4e0f-49fb-a98b-b18f93525a88.jpg",
+      "PackagePath": "staticwebassets\\images\\Meal_Singlephoto\\fdd3d66e-4e0f-49fb-a98b-b18f93525a88.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\11fc045f-2347-43dd-9a78-560d5b837141.png",
+      "PackagePath": "staticwebassets\\images\\member_photos\\11fc045f-2347-43dd-9a78-560d5b837141.png"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\1409fc68-2a5b-4697-ab2f-f7a2e8063fa1.jpg",
+      "PackagePath": "staticwebassets\\images\\member_photos\\1409fc68-2a5b-4697-ab2f-f7a2e8063fa1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\21eb6166-0861-4638-b383-06807c9a4e6c.jpg",
+      "PackagePath": "staticwebassets\\images\\member_photos\\21eb6166-0861-4638-b383-06807c9a4e6c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\23d69efd-499f-421b-ae20-e47383972d3d.png",
+      "PackagePath": "staticwebassets\\images\\member_photos\\23d69efd-499f-421b-ae20-e47383972d3d.png"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\57a2b3be-8363-4ed4-92ab-57565349a17a.png",
+      "PackagePath": "staticwebassets\\images\\member_photos\\57a2b3be-8363-4ed4-92ab-57565349a17a.png"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\62d3604f-2c26-4246-bac5-9d0993095d95.png",
+      "PackagePath": "staticwebassets\\images\\member_photos\\62d3604f-2c26-4246-bac5-9d0993095d95.png"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\70b9e4a5-bbaa-4ca3-a1ad-0435f5a7fe73.jpg",
+      "PackagePath": "staticwebassets\\images\\member_photos\\70b9e4a5-bbaa-4ca3-a1ad-0435f5a7fe73.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\7973112d-e361-41a9-807a-3de930e1aff3.png",
+      "PackagePath": "staticwebassets\\images\\member_photos\\7973112d-e361-41a9-807a-3de930e1aff3.png"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\8446e345-176a-45fc-9577-f4e917146f63.jpg",
+      "PackagePath": "staticwebassets\\images\\member_photos\\8446e345-176a-45fc-9577-f4e917146f63.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\default-user.jpg",
+      "PackagePath": "staticwebassets\\images\\member_photos\\default-user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\efeeccc3-d336-476c-9e2e-f5005e3fd057.jpg",
+      "PackagePath": "staticwebassets\\images\\member_photos\\efeeccc3-d336-476c-9e2e-f5005e3fd057.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.prjCatCoffe.props",
+      "PackagePath": "build\\prjCatCoffe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.prjCatCoffe.props",
+      "PackagePath": "buildMultiTargeting\\prjCatCoffe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.prjCatCoffe.props",
+      "PackagePath": "buildTransitive\\prjCatCoffe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.prjCatCoffe.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.prjCatCoffe.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
