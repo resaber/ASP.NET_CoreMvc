@@ -85,6 +85,8 @@ wwwroot\css\Layout.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\images\Login.jpg
+wwwroot\images\member_photos\11fc045f-2347-43dd-9a78-560d5b837141.png
+wwwroot\images\member_photos\23d69efd-499f-421b-ae20-e47383972d3d.png
 wwwroot\images\member_photos\62d3604f-2c26-4246-bac5-9d0993095d95.png
 wwwroot\images\member_photos\70b9e4a5-bbaa-4ca3-a1ad-0435f5a7fe73.jpg
 wwwroot\images\member_photos\7973112d-e361-41a9-807a-3de930e1aff3.png

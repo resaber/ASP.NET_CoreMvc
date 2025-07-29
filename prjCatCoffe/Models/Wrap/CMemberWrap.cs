@@ -1,4 +1,4 @@
-﻿namespace prjCatCoffe.Models
+﻿namespace prjCatCoffe.Models.Wrap
 {
     public class CMemberWrap
     {

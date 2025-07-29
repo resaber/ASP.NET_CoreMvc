@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using prjCatCoffe.Models;
+using prjCatCoffe.Models.Wrap;
 using prjCatCoffe.ViewModels;
 
 namespace prjCatCoffe.Controllers

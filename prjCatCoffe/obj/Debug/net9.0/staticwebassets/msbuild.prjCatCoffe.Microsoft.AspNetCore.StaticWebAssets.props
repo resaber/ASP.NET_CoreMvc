@@ -342,6 +342,42 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Login.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\member_photos\11fc045f-2347-43dd-9a78-560d5b837141.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>prjCatCoffe</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/prjCatCoffe</BasePath>
+      <RelativePath>images/member_photos/11fc045f-2347-43dd-9a78-560d5b837141.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>7nr1dct2x8</Fingerprint>
+      <Integrity>M28wdb+GDmN2nPDoKkMMSojmF7IRTVawmYrCFOG158g=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\member_photos\11fc045f-2347-43dd-9a78-560d5b837141.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\member_photos\23d69efd-499f-421b-ae20-e47383972d3d.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>prjCatCoffe</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/prjCatCoffe</BasePath>
+      <RelativePath>images/member_photos/23d69efd-499f-421b-ae20-e47383972d3d.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>7y74m9afxo</Fingerprint>
+      <Integrity>wQQcAUOKUtjPe5pG8/AGR41WuY0zV3dGLodsQrquYR0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\member_photos\23d69efd-499f-421b-ae20-e47383972d3d.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\member_photos\62d3604f-2c26-4246-bac5-9d0993095d95.png'))">
       <SourceType>Package</SourceType>
       <SourceId>prjCatCoffe</SourceId>

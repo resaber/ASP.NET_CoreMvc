@@ -32,6 +32,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/yozora/Desktop/ASP_MVC_Core專案/slnCatCoffe/prjCatCoffe/Views/CafeMeal/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FmZU1lYWxcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/yozora/Desktop/ASP_MVC_Core專案/slnCatCoffe/prjCatCoffe/Views/CafeMeal/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FmZU1lYWxcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

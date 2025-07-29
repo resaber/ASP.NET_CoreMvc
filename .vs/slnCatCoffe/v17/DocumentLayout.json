@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\views\\cafemeal\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|solutionrelative:prjcatcoffe\\views\\cafemeal\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\models\\cafemeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|solutionrelative:prjcatcoffe\\models\\cafemeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\models\\cafemealtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|solutionrelative:prjcatcoffe\\models\\cafemealtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|solutionrelative:prjcatcoffe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|solutionrelative:prjcatcoffe\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\models\\cafecat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|solutionrelative:prjcatcoffe\\models\\cafecat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\views\\member\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|solutionrelative:prjcatcoffe\\views\\member\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -27,68 +43,8 @@
       "RelativeMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|solutionrelative:prjcatcoffe\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|solutionrelative:prjcatcoffe\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\views\\cafemeal\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|solutionrelative:prjcatcoffe\\views\\cafemeal\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\views\\member\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|solutionrelative:prjcatcoffe\\views\\member\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\models\\cafemeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|solutionrelative:prjcatcoffe\\models\\cafemeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|solutionrelative:prjcatcoffe\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\controllers\\cafemealcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|solutionrelative:prjcatcoffe\\controllers\\cafemealcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\controllers\\caterercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|solutionrelative:prjcatcoffe\\controllers\\caterercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\views\\member\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|solutionrelative:prjcatcoffe\\views\\member\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\models\\cmemberwrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|solutionrelative:prjcatcoffe\\models\\cmemberwrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\views\\cafe\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|solutionrelative:prjcatcoffe\\views\\cafe\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\models\\cafecat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|solutionrelative:prjcatcoffe\\models\\cafecat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\controllers\\cafecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|solutionrelative:prjcatcoffe\\controllers\\cafecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\views\\cafe\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|solutionrelative:prjcatcoffe\\views\\cafe\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\models\\cafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|solutionrelative:prjcatcoffe\\models\\cafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\views\\cafe\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|solutionrelative:prjcatcoffe\\views\\cafe\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\models\\caterer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|solutionrelative:prjcatcoffe\\models\\caterer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\viewmodels\\ckeywordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -117,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\models\\openinghour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|solutionrelative:prjcatcoffe\\models\\openinghour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\models\\cafemealtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|solutionrelative:prjcatcoffe\\models\\cafemealtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A40D18AE-2A84-44A4-88CE-D8438BA35998}|prjCatCoffe\\prjCatCoffe.csproj|c:\\users\\yozora\\desktop\\asp_mvc_core\u5C08\u6848\\slncatcoffe\\prjcatcoffe\\models\\cafemealphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -182,7 +134,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -190,72 +142,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Views\\CafeMeal\\List.cshtml",
-              "RelativeDocumentMoniker": "prjCatCoffe\\Views\\CafeMeal\\List.cshtml",
-              "ToolTip": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Views\\CafeMeal\\List.cshtml",
-              "RelativeToolTip": "prjCatCoffe\\Views\\CafeMeal\\List.cshtml",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAuwFYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-28T16:47:36.448Z",
-              "EditorCaption": ""
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\appsettings.json",
+              "RelativeDocumentMoniker": "prjCatCoffe\\appsettings.json",
+              "ToolTip": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\appsettings.json",
+              "RelativeToolTip": "prjCatCoffe\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-27T19:58:13.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Program.cs",
               "RelativeDocumentMoniker": "prjCatCoffe\\Program.cs",
               "ToolTip": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Program.cs",
               "RelativeToolTip": "prjCatCoffe\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-26T14:47:11.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Layout.css",
-              "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\wwwroot\\css\\Layout.css",
-              "RelativeDocumentMoniker": "prjCatCoffe\\wwwroot\\css\\Layout.css",
-              "ToolTip": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\wwwroot\\css\\Layout.css",
-              "RelativeToolTip": "prjCatCoffe\\wwwroot\\css\\Layout.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-28T18:30:54.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CafeMealController.cs",
-              "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Controllers\\CafeMealController.cs",
-              "RelativeDocumentMoniker": "prjCatCoffe\\Controllers\\CafeMealController.cs",
-              "ToolTip": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Controllers\\CafeMealController.cs",
-              "RelativeToolTip": "prjCatCoffe\\Controllers\\CafeMealController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CafeMeal.cs",
+              "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Models\\CafeMeal.cs",
+              "RelativeDocumentMoniker": "prjCatCoffe\\Models\\CafeMeal.cs",
+              "ToolTip": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Models\\CafeMeal.cs",
+              "RelativeToolTip": "prjCatCoffe\\Models\\CafeMeal.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA1wCUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T16:42:57.067Z",
+              "WhenOpened": "2025-07-28T16:57:34.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "prjCatCoffe\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "prjCatCoffe\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAIwHQAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-28T10:37:47.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
               "Title": "CafeCat.cs",
               "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Models\\CafeCat.cs",
               "RelativeDocumentMoniker": "prjCatCoffe\\Models\\CafeCat.cs",
@@ -263,11 +188,12 @@
               "RelativeToolTip": "prjCatCoffe\\Models\\CafeCat.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA0wBwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T20:21:50.371Z"
+              "WhenOpened": "2025-07-27T20:21:50.371Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Views\\Member\\Edit.cshtml",
               "RelativeDocumentMoniker": "prjCatCoffe\\Views\\Member\\Edit.cshtml",
@@ -280,58 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Views\\Member\\Create.cshtml",
-              "RelativeDocumentMoniker": "prjCatCoffe\\Views\\Member\\Create.cshtml",
-              "ToolTip": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Views\\Member\\Create.cshtml",
-              "RelativeToolTip": "prjCatCoffe\\Views\\Member\\Create.cshtml",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAAC4AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-27T19:18:20.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Views\\Cafe\\Edit.cshtml",
-              "RelativeDocumentMoniker": "prjCatCoffe\\Views\\Cafe\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Views\\Cafe\\Edit.cshtml",
-              "RelativeToolTip": "prjCatCoffe\\Views\\Cafe\\Edit.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-28T05:54:37.132Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CatererController.cs",
-              "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Controllers\\CatererController.cs",
-              "RelativeDocumentMoniker": "prjCatCoffe\\Controllers\\CatererController.cs",
-              "ToolTip": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Controllers\\CatererController.cs",
-              "RelativeToolTip": "prjCatCoffe\\Controllers\\CatererController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T19:01:40.208Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\appsettings.json",
-              "RelativeDocumentMoniker": "prjCatCoffe\\appsettings.json",
-              "ToolTip": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\appsettings.json",
-              "RelativeToolTip": "prjCatCoffe\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-27T19:58:13.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "prjCatCoffe\\wwwroot\\css\\site.css",
@@ -339,98 +214,73 @@
               "RelativeToolTip": "prjCatCoffe\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-28T18:31:12.091Z",
+              "WhenOpened": "2025-07-28T18:31:12.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CafeMealType.cs",
+              "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Models\\CafeMealType.cs",
+              "RelativeDocumentMoniker": "prjCatCoffe\\Models\\CafeMealType.cs",
+              "ToolTip": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Models\\CafeMealType.cs",
+              "RelativeToolTip": "prjCatCoffe\\Models\\CafeMealType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T20:58:15.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CMemberWrap.cs",
-              "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Models\\CMemberWrap.cs",
-              "RelativeDocumentMoniker": "prjCatCoffe\\Models\\CMemberWrap.cs",
-              "ToolTip": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Models\\CMemberWrap.cs",
-              "RelativeToolTip": "prjCatCoffe\\Models\\CMemberWrap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T19:45:49.759Z",
-              "EditorCaption": ""
+              "DocumentIndex": 8,
+              "Title": "Layout.css",
+              "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\wwwroot\\css\\Layout.css",
+              "RelativeDocumentMoniker": "prjCatCoffe\\wwwroot\\css\\Layout.css",
+              "ToolTip": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\wwwroot\\css\\Layout.css",
+              "RelativeToolTip": "prjCatCoffe\\wwwroot\\css\\Layout.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-28T18:30:54.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CafeController.cs",
-              "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Controllers\\CafeController.cs",
-              "RelativeDocumentMoniker": "prjCatCoffe\\Controllers\\CafeController.cs",
-              "ToolTip": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Controllers\\CafeController.cs",
-              "RelativeToolTip": "prjCatCoffe\\Controllers\\CafeController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwAkAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T19:01:24.52Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CafeMeal.cs",
-              "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Models\\CafeMeal.cs",
-              "RelativeDocumentMoniker": "prjCatCoffe\\Models\\CafeMeal.cs",
-              "ToolTip": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Models\\CafeMeal.cs",
-              "RelativeToolTip": "prjCatCoffe\\Models\\CafeMeal.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA0wAcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T16:57:34.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Caterer.cs",
-              "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Models\\Caterer.cs",
-              "RelativeDocumentMoniker": "prjCatCoffe\\Models\\Caterer.cs",
-              "ToolTip": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Models\\Caterer.cs",
-              "RelativeToolTip": "prjCatCoffe\\Models\\Caterer.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T20:59:09.069Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Views\\Cafe\\Create.cshtml",
-              "RelativeDocumentMoniker": "prjCatCoffe\\Views\\Cafe\\Create.cshtml",
-              "ToolTip": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Views\\Cafe\\Create.cshtml",
-              "RelativeToolTip": "prjCatCoffe\\Views\\Cafe\\Create.cshtml",
-              "ViewState": "AgIAACAAAAAAAAAAAAAIwDkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "prjCatCoffe\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "prjCatCoffe\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAIwHQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-28T05:34:14.948Z"
+              "WhenOpened": "2025-07-28T10:37:47.661Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 0,
               "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Views\\Cafe\\List.cshtml",
-              "RelativeDocumentMoniker": "prjCatCoffe\\Views\\Cafe\\List.cshtml",
-              "ToolTip": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Views\\Cafe\\List.cshtml",
-              "RelativeToolTip": "prjCatCoffe\\Views\\Cafe\\List.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAGAAAABGAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Views\\CafeMeal\\List.cshtml",
+              "RelativeDocumentMoniker": "prjCatCoffe\\Views\\CafeMeal\\List.cshtml",
+              "ToolTip": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Views\\CafeMeal\\List.cshtml",
+              "RelativeToolTip": "prjCatCoffe\\Views\\CafeMeal\\List.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFMAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-28T05:17:31.867Z"
+              "WhenOpened": "2025-07-28T16:47:36.448Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Cafe.cs",
-              "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Models\\Cafe.cs",
-              "RelativeDocumentMoniker": "prjCatCoffe\\Models\\Cafe.cs",
-              "ToolTip": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Models\\Cafe.cs",
-              "RelativeToolTip": "prjCatCoffe\\Models\\Cafe.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAA3wCQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "CatererController.cs",
+              "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Controllers\\CatererController.cs",
+              "RelativeDocumentMoniker": "prjCatCoffe\\Controllers\\CatererController.cs",
+              "ToolTip": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Controllers\\CatererController.cs",
+              "RelativeToolTip": "prjCatCoffe\\Controllers\\CatererController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T20:51:46.738Z"
+              "WhenOpened": "2025-07-27T19:01:40.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 11,
               "Title": "CkeyWordViewModel.cs",
               "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\ViewModels\\CkeyWordViewModel.cs",
               "RelativeDocumentMoniker": "prjCatCoffe\\ViewModels\\CkeyWordViewModel.cs",
@@ -442,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 13,
               "Title": "CatCafeDbContext.cs",
               "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Models\\CatCafeDbContext.cs",
               "RelativeDocumentMoniker": "prjCatCoffe\\Models\\CatCafeDbContext.cs",
@@ -454,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 19,
               "Title": "CafeCatPhoto.cs",
               "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Models\\CafeCatPhoto.cs",
               "RelativeDocumentMoniker": "prjCatCoffe\\Models\\CafeCatPhoto.cs",
@@ -466,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 18,
               "Title": "CafeMealPhoto.cs",
               "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Models\\CafeMealPhoto.cs",
               "RelativeDocumentMoniker": "prjCatCoffe\\Models\\CafeMealPhoto.cs",
@@ -478,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 12,
               "Title": ".gitignore.txt",
               "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\.gitignore.txt",
               "RelativeDocumentMoniker": "prjCatCoffe\\.gitignore.txt",
@@ -490,19 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "CafeMealType.cs",
-              "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Models\\CafeMealType.cs",
-              "RelativeDocumentMoniker": "prjCatCoffe\\Models\\CafeMealType.cs",
-              "ToolTip": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Models\\CafeMealType.cs",
-              "RelativeToolTip": "prjCatCoffe\\Models\\CafeMealType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T20:58:15.156Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 16,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Models\\Order.cs",
               "RelativeDocumentMoniker": "prjCatCoffe\\Models\\Order.cs",
@@ -514,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 17,
               "Title": "OpeningHour.cs",
               "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Models\\OpeningHour.cs",
               "RelativeDocumentMoniker": "prjCatCoffe\\Models\\OpeningHour.cs",
@@ -526,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 14,
               "Title": "CafeAmbiencePhoto.cs",
               "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Models\\CafeAmbiencePhoto.cs",
               "RelativeDocumentMoniker": "prjCatCoffe\\Models\\CafeAmbiencePhoto.cs",
@@ -538,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 15,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Models\\OrderItem.cs",
               "RelativeDocumentMoniker": "prjCatCoffe\\Models\\OrderItem.cs",
@@ -550,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 20,
               "Title": "CafeAmbiencePhotoType.cs",
               "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Models\\CafeAmbiencePhotoType.cs",
               "RelativeDocumentMoniker": "prjCatCoffe\\Models\\CafeAmbiencePhotoType.cs",
@@ -562,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 21,
               "Title": "Booking.cs",
               "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Models\\Booking.cs",
               "RelativeDocumentMoniker": "prjCatCoffe\\Models\\Booking.cs",
@@ -574,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 22,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Views\\Shared\\Index.cshtml",
               "RelativeDocumentMoniker": "prjCatCoffe\\Views\\Shared\\Index.cshtml",
@@ -586,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 25,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "prjCatCoffe\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -598,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 24,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "prjCatCoffe\\Views\\_ViewStart.cshtml",
@@ -610,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 23,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "prjCatCoffe\\Views\\_ViewImports.cshtml",
@@ -622,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 26,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "prjCatCoffe\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -634,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 28,
               "Title": "prjCatCoffe",
               "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\prjCatCoffe.csproj",
               "RelativeDocumentMoniker": "prjCatCoffe\\prjCatCoffe.csproj",
@@ -645,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 27,
               "Title": "app.css",
               "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\wwwroot\\adminkit\\assets\\css\\app.css",
               "RelativeDocumentMoniker": "prjCatCoffe\\wwwroot\\adminkit\\assets\\css\\app.css",
@@ -657,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 30,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Templates\\index.html",
               "RelativeDocumentMoniker": "prjCatCoffe\\Templates\\index.html",
@@ -669,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 29,
               "Title": "app.css.map",
               "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\wwwroot\\adminkit\\assets\\css\\app.css.map",
               "RelativeDocumentMoniker": "prjCatCoffe\\wwwroot\\adminkit\\assets\\css\\app.css.map",
@@ -678,66 +516,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-07-27T11:43:50.44Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "c34c87de-ff52-4e45-8aa3-821b3dc1d138",
-        "Display": 0,
-        "X": 292,
-        "Y": 79,
-        "Width": 1359,
-        "Height": 887,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MemberController.cs",
-              "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Controllers\\MemberController.cs",
-              "RelativeDocumentMoniker": "prjCatCoffe\\Controllers\\MemberController.cs",
-              "ToolTip": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Controllers\\MemberController.cs",
-              "RelativeToolTip": "prjCatCoffe\\Controllers\\MemberController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA0wBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T16:15:42.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Views\\Member\\List.cshtml",
-              "RelativeDocumentMoniker": "prjCatCoffe\\Views\\Member\\List.cshtml",
-              "ToolTip": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Views\\Member\\List.cshtml",
-              "RelativeToolTip": "prjCatCoffe\\Views\\Member\\List.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-27T16:50:07.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Member.cs",
-              "DocumentMoniker": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Models\\Member.cs",
-              "RelativeDocumentMoniker": "prjCatCoffe\\Models\\Member.cs",
-              "ToolTip": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core\u5C08\u6848\\slnCatCoffe\\prjCatCoffe\\Models\\Member.cs",
-              "RelativeToolTip": "prjCatCoffe\\Models\\Member.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T19:19:55.779Z",
-              "EditorCaption": ""
             }
           ]
         }
