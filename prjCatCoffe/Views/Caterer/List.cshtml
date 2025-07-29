@@ -1,0 +1,126 @@
+﻿@model IEnumerable<prjCatCoffe.Models.Caterer>
+
+@{
+    ViewData["Title"] = "List";
+}
+
+<h1>業者資料一覽表</h1>
+@*關鍵字*@
+@using (Html.BeginForm())
+{
+    <p>
+        關鍵字 @Html.TextBox("txtKeyword") <input type="submit" value="查詢" />
+    </p>
+}
+
+
+<p>
+    <a asp-action="Create">新增業者</a>
+</p>
+
+@section Styles {
+    <style>
+        table th, table td {
+            text-align: center; /* 水平置中 */
+            vertical-align: middle; /* 垂直置中 */
+        }
+
+        th {
+            white-space: nowrap;
+        }
+    </style>
+
+  }
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                序號
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LegalName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImageUrl)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MemberId)
+            </th>
+            
+            
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IntroText)
+            </th>
+           
+            <th>
+                @Html.DisplayNameFor(model => model.ApplyReason)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedAt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UpdatedAt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@{
+            int count = 0;
+    foreach (var item in Model) {
+             count++;
+        <tr>
+            <td>
+                @count
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.LegalName)
+            </td>
+
+            <td>
+                @* 有圖片給設定的圖片沒有的話給預設值 *@
+                <img src="~/images/Caterer_photo//@(string.IsNullOrEmpty(item.ImageUrl) ? "default-caterer.jpg" : item.ImageUrl)" width="80" height="50" />
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.MemberId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IntroText)
+            </td>
+     
+            <td>
+                @Html.DisplayFor(modelItem => item.ApplyReason)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedAt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UpdatedAt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => @item.StatusDisplay)
+            </td>
+            <td>
+                    @Html.ActionLink("編輯", "Edit", "Caterer", new { id = item.CatererId }, null)
+                    @Html.ActionLink("刪除", "Delete", "Caterer", new { id = item.CatererId },
+                             new { onclick = "return confirm('要刪除這筆業者資料嗎?')" })
+            </td>
+        </tr>
+    }
+}
+    </tbody>
+</table>

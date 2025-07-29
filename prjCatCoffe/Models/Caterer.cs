@@ -42,6 +42,9 @@ public partial class Caterer
     [Column("updated_at")]
     public DateTime UpdatedAt { get; set; }
 
+    [NotMapped]
+    public string StatusDisplay => Status ? "啟用" : "停用";
+
     [DisplayName("狀態")]
     public bool Status { get; set; }
     public virtual ICollection<Cafe> Caves { get; set; } = new List<Cafe>();

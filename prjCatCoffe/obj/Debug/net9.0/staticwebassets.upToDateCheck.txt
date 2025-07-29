@@ -84,6 +84,7 @@ wwwroot\adminkit\assets\js\app.js.map
 wwwroot\css\Layout.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\Caterer_photo\default-caterer.jpg
 wwwroot\images\Login.jpg
 wwwroot\images\Meal_Singlephoto\57f3f9e3-85c1-4eeb-8ddd-727cb60bbdda.jpg
 wwwroot\images\Meal_Singlephoto\882ee9e2-b7e5-4378-b6f3-9cac6d54e269.jpg

@@ -6,13 +6,21 @@
 
 <h1>會員資料一覽表</h1>
 
-@*關鍵字*@
-@using (Html.BeginForm())
-{
-    <p>
-        關鍵字 @Html.TextBox("txtKeyword") <input type="submit" value="查詢" />
-    </p>
-}
+
+<div class="bar d-flex align-items-center gap-2">
+    @using (Html.BeginForm())
+    {
+        <div class="d-flex align-items-center gap-2">
+            <label for="txtKeyword">關鍵字</label>
+            @Html.TextBox("txtKeyword", null, new { @class = "form-control", @style = "width: 150px;" })
+            <input type="submit" value="查詢" class="btn btn-primary" />
+        </div>
+    }
+
+    <select id="selectPerson" class="form-control" style="width: 150px;">
+        <option selected disabled>請選擇身分</option>
+    </select>
+</div>
 
 <p>
     <a asp-action="Create">新增會員</a>
@@ -129,3 +137,68 @@
     </tbody>
 </table>
 
+@section Scripts{
+    <script>
+        const selPerson = document.querySelector("#selectPerson");
+        //套用IFFE
+        //讀出資料把使用者身分顯示 例如這裡只有會員或是業者 依照Member資料表 is_caterer是 0 會員 或是 1業者顯示在select option//串接資料庫資料表 要想一下怎麼做
+        (async () => {
+          try {
+            //api路徑
+            const response = await fetch("/api/MemberApi/GetRoles");
+            const datas = await response.json(); //解析拿到JSON
+
+            const roleOptionsHtml = datas.map(role => {
+              return `<option value="${role}">${role}</option>`;
+            });
+            //把每個元素拆開
+            selPerson.innerHTML += roleOptionsHtml.join('');
+          } catch (err) {
+            console.error("發生錯誤：", err);
+            selPerson.innerHTML = `<option disabled>資料載入失敗</option>`;
+          }
+        })(); // ✅ 呼叫 IIFE，這是你漏掉的關鍵
+
+
+        //顯示下方table更新資料
+        selPerson.addEventListener("change", async () => {
+          //去拿option 裡面的Value屬性的值
+          const selectedRole = selPerson.value;
+
+          try {
+              
+            const response = await fetch(`/api/MemberApi/GetMembersByRole?role=${selectedRole}`);
+            const members = await response.json();
+
+            const tbody = document.querySelector("tbody");
+            let count = 1;
+
+            const rowsHtml = members.map(m => {
+              return `
+                <tr>
+                  <td>${count++}</td>
+                  <td>${m.name}</td>
+                  <td><img src="/images/member_photos/${m.imageUrl || 'default-user.jpg'}" width="80" height="50"/></td>
+                  <td>${m.account}</td>
+                  <td>${m.phone}</td>
+                  <td>${m.gender === 1 ? '女' : '男'}</td>
+                  <td>${m.email}</td>
+                  <td>${m.isCaterer ? '業者' : '會員'}</td>
+                  <td>${m.createdAt}</td>
+                  <td>${m.updatedAt}</td>
+                  <td>${m.status ? '啟用' : '停用'}</td>
+                  <td>
+                    <a href="/Member/Edit/${m.memberId}">編輯</a>
+                    <a href="/Member/Delete/${m.memberId}" onclick="return confirm('要刪除這筆會員資料嗎?')">刪除</a>
+                  </td>
+                </tr>
+              `;
+            });
+
+            tbody.innerHTML = rowsHtml.join('');
+          } catch (err) {
+            console.error("讀取會員清單失敗", err);
+          }
+        });
+    </script>
+}
