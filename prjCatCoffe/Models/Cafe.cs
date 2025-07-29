@@ -25,7 +25,7 @@ public partial class Cafe
     public string? Phone { get; set; }
 
     [DisplayName("地址")]
-    public string Address { get; set; }
+    public string? Address { get; set; }
 
     [DisplayName("建立時間")]
     [Column("created_at")]

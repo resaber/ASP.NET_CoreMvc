@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\images\member_photos\" />
     <Folder Include="wwwroot\images\Meal_Singlephoto\" />
   </ItemGroup>
 

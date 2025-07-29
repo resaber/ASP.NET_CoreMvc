@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using prjCatCoffe.Models;
 using prjCatCoffe.Models.Wrap;
 using prjCatCoffe.ViewModels;
@@ -109,15 +110,22 @@ namespace prjCatCoffe.Controllers
         {
             //傳遞資料到View
 
-            CatCafeDbContext db = new CatCafeDbContext();
-            Member dbMember = db.Members.FirstOrDefault(m => m.MemberId == uiMember.MemberId);
+            Member dbMember = _context.Members.FirstOrDefault(m => m.MemberId == uiMember.MemberId);
             if (dbMember == null)
                 return RedirectToAction("List");
 
             //處理上傳照片格式
             if (uiMember.photo != null)
             {
-                // 拿到
+                //  刪除舊照片 有舊照片刪掉
+                if (!string.IsNullOrEmpty(dbMember.ImageUrl))
+                {
+                    string oldPhotoPath = Path.Combine(_enviro.WebRootPath, "images", "member_photos", dbMember.ImageUrl);
+                    if (System.IO.File.Exists(oldPhotoPath))
+                        System.IO.File.Delete(oldPhotoPath);  // ⭐ 刪除舊圖
+                }
+
+                //儲存新照片
                 string ext = Path.GetExtension(uiMember.photo.FileName);
                 string photoName = Guid.NewGuid().ToString() + ext;
                 dbMember.ImageUrl = photoName;
@@ -138,7 +146,7 @@ namespace prjCatCoffe.Controllers
             dbMember.IsCaterer = uiMember.IsCaterer;
 
             //存回資料庫
-            db.SaveChanges();
+            _context.SaveChanges();
 
             //最後回到List Action看到原本的List_View
             return RedirectToAction("List");

@@ -43,11 +43,8 @@
                 <input asp-for="Description" class="form-control" />
                 <span asp-validation-for="Description" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <label asp-for="ImageUrl" class="control-label"></label>
-                <input asp-for="ImageUrl" class="form-control" />
-                <span asp-validation-for="ImageUrl" class="text-danger"></span>
-            </div>
+            @* 隱藏圖片*@          
+            <input type="hidden" asp-for="ImageUrl" />
             <div class="form-group form-check">
                 <label class="form-check-label">
                     <input class="form-check-input" asp-for="IsActive" /> @Html.DisplayNameFor(model => model.IsActive)
@@ -55,11 +52,7 @@
             </div>
             
          
-            <div class="form-group">
-                <label class="control-label">上傳餐廳封面照</label>
-                @* <input type="file" id="imageInput" multiple accept="image/*"> *@
-                <input type="file" name="photo" class="form-control" onchange="previewPhoto(this)" multiple accept=" image /*" />
-            </div>
+          
             <div class="form-group ">
                 <input type="submit" value="送出並儲存" class="btn btn-primary" />
             </div>
@@ -77,6 +70,11 @@
                      style="width: 100%; height: 100%; object-fit: cover;" />
             </div>
 
+        </div>
+        <div class="form-group">
+            <label class="control-label">上傳餐廳封面照</label>
+            @* <input type="file" id="imageInput" multiple accept="image/*"> *@
+            <input type="file" name="photo" class="form-control" onchange="previewPhoto(this)" multiple accept=" image /*" />
         </div>
     </div>
 </div>

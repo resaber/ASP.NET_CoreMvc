@@ -29,7 +29,7 @@
     </style>
 
   }
-<table class="table">
+<table class="table table-hover">
     <thead>
         <tr>
             <th>
@@ -77,12 +77,18 @@
         <tr>
             <td>
                 @count
-            <td>
-                @Html.DisplayFor(modelItem => item.CafeId)
             </td>
+
+            @* 餐廳名稱 *@
             <td>
-                 @Html.DisplayFor(modelItem => item.TypeId)
+                @item.Cafe?.Name
             </td>
+            
+             @* 料理分類名稱 *@
+            <td>
+                @item.Type?.Name
+            </td>   
+         
             <td>
                 @Html.DisplayFor(modelItem => item.MealName)
             </td>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HlDFGW58hP70sHWNPn5MXEvBQLJ5YeouyOr55eYXvas=",
+  "Hash": "z9WzAf9a+tBrHQwiZ6ahY5GPewudQ6xEZvow8dyfW1A=",
   "Source": "prjCatCoffe",
   "BasePath": "_content/prjCatCoffe",
   "Mode": "Default",
@@ -1928,6 +1928,132 @@
       "OriginalItemSpec": "wwwroot\\images\\Login.jpg"
     },
     {
+      "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\Meal_Singlephoto\\57f3f9e3-85c1-4eeb-8ddd-727cb60bbdda.jpg",
+      "SourceId": "prjCatCoffe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\",
+      "BasePath": "_content/prjCatCoffe",
+      "RelativePath": "images/Meal_Singlephoto/57f3f9e3-85c1-4eeb-8ddd-727cb60bbdda#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "af70jmm1r1",
+      "Integrity": "ltB5CvVdvfIAzu51sBO1MCs0cBleViNNgpwedO5awFs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Meal_Singlephoto\\57f3f9e3-85c1-4eeb-8ddd-727cb60bbdda.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\Meal_Singlephoto\\882ee9e2-b7e5-4378-b6f3-9cac6d54e269.jpg",
+      "SourceId": "prjCatCoffe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\",
+      "BasePath": "_content/prjCatCoffe",
+      "RelativePath": "images/Meal_Singlephoto/882ee9e2-b7e5-4378-b6f3-9cac6d54e269#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "85j28f2enb",
+      "Integrity": "bBH3VW75tYRP/L59Gm52Setkgb3ekQyBmbh2cycF78M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Meal_Singlephoto\\882ee9e2-b7e5-4378-b6f3-9cac6d54e269.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\Meal_Singlephoto\\afe5cf20-b8d3-4826-922f-84ba40a9ceda.jpg",
+      "SourceId": "prjCatCoffe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\",
+      "BasePath": "_content/prjCatCoffe",
+      "RelativePath": "images/Meal_Singlephoto/afe5cf20-b8d3-4826-922f-84ba40a9ceda#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m62qirzrqt",
+      "Integrity": "cuTyKhAVi9Xyqy2XYXX+/ADGTXPfLb1ikzgZAYt+0p4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Meal_Singlephoto\\afe5cf20-b8d3-4826-922f-84ba40a9ceda.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\Meal_Singlephoto\\c48025fd-701a-4cd1-8b06-e932cacdd34f.jpg",
+      "SourceId": "prjCatCoffe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\",
+      "BasePath": "_content/prjCatCoffe",
+      "RelativePath": "images/Meal_Singlephoto/c48025fd-701a-4cd1-8b06-e932cacdd34f#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jo61jzgbnx",
+      "Integrity": "7Qjb3MtfMiSEeDU7/117VvyHX6Kvq6qVYtbv1+Xc+DU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Meal_Singlephoto\\c48025fd-701a-4cd1-8b06-e932cacdd34f.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\Meal_Singlephoto\\dccb3f37-09e0-4161-96f4-e803e3ffa28d.jpg",
+      "SourceId": "prjCatCoffe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\",
+      "BasePath": "_content/prjCatCoffe",
+      "RelativePath": "images/Meal_Singlephoto/dccb3f37-09e0-4161-96f4-e803e3ffa28d#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gq950lzruz",
+      "Integrity": "iCQN1sl97IAxLMxmb2gyUmXow+oXv5cnEdiDkAiFX8w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Meal_Singlephoto\\dccb3f37-09e0-4161-96f4-e803e3ffa28d.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\Meal_Singlephoto\\fdd3d66e-4e0f-49fb-a98b-b18f93525a88.jpg",
+      "SourceId": "prjCatCoffe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\",
+      "BasePath": "_content/prjCatCoffe",
+      "RelativePath": "images/Meal_Singlephoto/fdd3d66e-4e0f-49fb-a98b-b18f93525a88#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2a61j2o7cc",
+      "Integrity": "ClFm8+ayHNhsPVJalhIkUi/JLjKCu16Ywr0r4j3mqkY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Meal_Singlephoto\\fdd3d66e-4e0f-49fb-a98b-b18f93525a88.jpg"
+    },
+    {
       "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\11fc045f-2347-43dd-9a78-560d5b837141.png",
       "SourceId": "prjCatCoffe",
       "SourceType": "Discovered",
@@ -1949,6 +2075,48 @@
       "OriginalItemSpec": "wwwroot\\images\\member_photos\\11fc045f-2347-43dd-9a78-560d5b837141.png"
     },
     {
+      "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\1409fc68-2a5b-4697-ab2f-f7a2e8063fa1.jpg",
+      "SourceId": "prjCatCoffe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\",
+      "BasePath": "_content/prjCatCoffe",
+      "RelativePath": "images/member_photos/1409fc68-2a5b-4697-ab2f-f7a2e8063fa1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lahocw6qcj",
+      "Integrity": "jVkOzfx8WP1b8tUsaj5Xra8ZtU74aAwETgE5k6d+svU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\member_photos\\1409fc68-2a5b-4697-ab2f-f7a2e8063fa1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\21eb6166-0861-4638-b383-06807c9a4e6c.jpg",
+      "SourceId": "prjCatCoffe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\",
+      "BasePath": "_content/prjCatCoffe",
+      "RelativePath": "images/member_photos/21eb6166-0861-4638-b383-06807c9a4e6c#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3s59u0u62x",
+      "Integrity": "fTypIOu4BjujT67neP3kG1di0mbXZMFNe7CmxaKVC+c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\member_photos\\21eb6166-0861-4638-b383-06807c9a4e6c.jpg"
+    },
+    {
       "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\23d69efd-499f-421b-ae20-e47383972d3d.png",
       "SourceId": "prjCatCoffe",
       "SourceType": "Discovered",
@@ -1968,6 +2136,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\member_photos\\23d69efd-499f-421b-ae20-e47383972d3d.png"
+    },
+    {
+      "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\57a2b3be-8363-4ed4-92ab-57565349a17a.png",
+      "SourceId": "prjCatCoffe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\",
+      "BasePath": "_content/prjCatCoffe",
+      "RelativePath": "images/member_photos/57a2b3be-8363-4ed4-92ab-57565349a17a#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sf6drugw3v",
+      "Integrity": "2JRkzUhZ2zVyz/Z2yoU22NRxmIL+HUvEq35pc6BGuwc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\member_photos\\57a2b3be-8363-4ed4-92ab-57565349a17a.png"
     },
     {
       "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\62d3604f-2c26-4246-bac5-9d0993095d95.png",
@@ -2033,12 +2222,54 @@
       "OriginalItemSpec": "wwwroot\\images\\member_photos\\7973112d-e361-41a9-807a-3de930e1aff3.png"
     },
     {
-      "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\9661fbb7-c652-4b67-a5d9-00be085505de.jpg",
+      "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\8446e345-176a-45fc-9577-f4e917146f63.jpg",
       "SourceId": "prjCatCoffe",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\",
       "BasePath": "_content/prjCatCoffe",
-      "RelativePath": "images/member_photos/9661fbb7-c652-4b67-a5d9-00be085505de#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/member_photos/8446e345-176a-45fc-9577-f4e917146f63#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "exk0ax5adw",
+      "Integrity": "8qdmLrs0em4/mEKaNACOGAchLS23H/NotSryHenAzpE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\member_photos\\8446e345-176a-45fc-9577-f4e917146f63.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\default-user.jpg",
+      "SourceId": "prjCatCoffe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\",
+      "BasePath": "_content/prjCatCoffe",
+      "RelativePath": "images/member_photos/default-user#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nj0pap7hdi",
+      "Integrity": "A81sFENIWbtn+eAh0RR1+HD7CX01CPByI+CVyqPwnAc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\member_photos\\default-user.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\efeeccc3-d336-476c-9e2e-f5005e3fd057.jpg",
+      "SourceId": "prjCatCoffe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\",
+      "BasePath": "_content/prjCatCoffe",
+      "RelativePath": "images/member_photos/efeeccc3-d336-476c-9e2e-f5005e3fd057#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2051,28 +2282,7 @@
       "Integrity": "g232qOmFp1CbiOSHM7rvZjjYwYnbcvc5kg+ywtC1BwA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\member_photos\\9661fbb7-c652-4b67-a5d9-00be085505de.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\e79af069-9395-4d69-b6ca-26217c67ccee.png",
-      "SourceId": "prjCatCoffe",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\",
-      "BasePath": "_content/prjCatCoffe",
-      "RelativePath": "images/member_photos/e79af069-9395-4d69-b6ca-26217c67ccee#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "68tqddcfdq",
-      "Integrity": "dhdaoSa2Y7Um4CapesT6z99KRhukTTU33qduW2ua/L4=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\member_photos\\e79af069-9395-4d69-b6ca-26217c67ccee.png"
+      "OriginalItemSpec": "wwwroot\\images\\member_photos\\efeeccc3-d336-476c-9e2e-f5005e3fd057.jpg"
     },
     {
       "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\js\\site.js",
@@ -6644,6 +6854,498 @@
       ]
     },
     {
+      "Route": "images/Meal_Singlephoto/57f3f9e3-85c1-4eeb-8ddd-727cb60bbdda.af70jmm1r1.jpg",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\Meal_Singlephoto\\57f3f9e3-85c1-4eeb-8ddd-727cb60bbdda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10700"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ltB5CvVdvfIAzu51sBO1MCs0cBleViNNgpwedO5awFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 10:06:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "af70jmm1r1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Meal_Singlephoto/57f3f9e3-85c1-4eeb-8ddd-727cb60bbdda.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ltB5CvVdvfIAzu51sBO1MCs0cBleViNNgpwedO5awFs="
+        }
+      ]
+    },
+    {
+      "Route": "images/Meal_Singlephoto/57f3f9e3-85c1-4eeb-8ddd-727cb60bbdda.jpg",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\Meal_Singlephoto\\57f3f9e3-85c1-4eeb-8ddd-727cb60bbdda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10700"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ltB5CvVdvfIAzu51sBO1MCs0cBleViNNgpwedO5awFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 10:06:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ltB5CvVdvfIAzu51sBO1MCs0cBleViNNgpwedO5awFs="
+        }
+      ]
+    },
+    {
+      "Route": "images/Meal_Singlephoto/882ee9e2-b7e5-4378-b6f3-9cac6d54e269.85j28f2enb.jpg",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\Meal_Singlephoto\\882ee9e2-b7e5-4378-b6f3-9cac6d54e269.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "161251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bBH3VW75tYRP/L59Gm52Setkgb3ekQyBmbh2cycF78M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 05:00:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "85j28f2enb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Meal_Singlephoto/882ee9e2-b7e5-4378-b6f3-9cac6d54e269.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bBH3VW75tYRP/L59Gm52Setkgb3ekQyBmbh2cycF78M="
+        }
+      ]
+    },
+    {
+      "Route": "images/Meal_Singlephoto/882ee9e2-b7e5-4378-b6f3-9cac6d54e269.jpg",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\Meal_Singlephoto\\882ee9e2-b7e5-4378-b6f3-9cac6d54e269.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "161251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bBH3VW75tYRP/L59Gm52Setkgb3ekQyBmbh2cycF78M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 05:00:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bBH3VW75tYRP/L59Gm52Setkgb3ekQyBmbh2cycF78M="
+        }
+      ]
+    },
+    {
+      "Route": "images/Meal_Singlephoto/afe5cf20-b8d3-4826-922f-84ba40a9ceda.jpg",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\Meal_Singlephoto\\afe5cf20-b8d3-4826-922f-84ba40a9ceda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94206"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cuTyKhAVi9Xyqy2XYXX+/ADGTXPfLb1ikzgZAYt+0p4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 08:33:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cuTyKhAVi9Xyqy2XYXX+/ADGTXPfLb1ikzgZAYt+0p4="
+        }
+      ]
+    },
+    {
+      "Route": "images/Meal_Singlephoto/afe5cf20-b8d3-4826-922f-84ba40a9ceda.m62qirzrqt.jpg",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\Meal_Singlephoto\\afe5cf20-b8d3-4826-922f-84ba40a9ceda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94206"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cuTyKhAVi9Xyqy2XYXX+/ADGTXPfLb1ikzgZAYt+0p4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 08:33:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m62qirzrqt"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Meal_Singlephoto/afe5cf20-b8d3-4826-922f-84ba40a9ceda.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cuTyKhAVi9Xyqy2XYXX+/ADGTXPfLb1ikzgZAYt+0p4="
+        }
+      ]
+    },
+    {
+      "Route": "images/Meal_Singlephoto/c48025fd-701a-4cd1-8b06-e932cacdd34f.jo61jzgbnx.jpg",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\Meal_Singlephoto\\c48025fd-701a-4cd1-8b06-e932cacdd34f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "188561"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7Qjb3MtfMiSEeDU7/117VvyHX6Kvq6qVYtbv1+Xc+DU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 08:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jo61jzgbnx"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Meal_Singlephoto/c48025fd-701a-4cd1-8b06-e932cacdd34f.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7Qjb3MtfMiSEeDU7/117VvyHX6Kvq6qVYtbv1+Xc+DU="
+        }
+      ]
+    },
+    {
+      "Route": "images/Meal_Singlephoto/c48025fd-701a-4cd1-8b06-e932cacdd34f.jpg",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\Meal_Singlephoto\\c48025fd-701a-4cd1-8b06-e932cacdd34f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "188561"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7Qjb3MtfMiSEeDU7/117VvyHX6Kvq6qVYtbv1+Xc+DU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 08:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7Qjb3MtfMiSEeDU7/117VvyHX6Kvq6qVYtbv1+Xc+DU="
+        }
+      ]
+    },
+    {
+      "Route": "images/Meal_Singlephoto/dccb3f37-09e0-4161-96f4-e803e3ffa28d.gq950lzruz.jpg",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\Meal_Singlephoto\\dccb3f37-09e0-4161-96f4-e803e3ffa28d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49679"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iCQN1sl97IAxLMxmb2gyUmXow+oXv5cnEdiDkAiFX8w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 10:15:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gq950lzruz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Meal_Singlephoto/dccb3f37-09e0-4161-96f4-e803e3ffa28d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iCQN1sl97IAxLMxmb2gyUmXow+oXv5cnEdiDkAiFX8w="
+        }
+      ]
+    },
+    {
+      "Route": "images/Meal_Singlephoto/dccb3f37-09e0-4161-96f4-e803e3ffa28d.jpg",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\Meal_Singlephoto\\dccb3f37-09e0-4161-96f4-e803e3ffa28d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49679"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iCQN1sl97IAxLMxmb2gyUmXow+oXv5cnEdiDkAiFX8w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 10:15:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iCQN1sl97IAxLMxmb2gyUmXow+oXv5cnEdiDkAiFX8w="
+        }
+      ]
+    },
+    {
+      "Route": "images/Meal_Singlephoto/fdd3d66e-4e0f-49fb-a98b-b18f93525a88.2a61j2o7cc.jpg",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\Meal_Singlephoto\\fdd3d66e-4e0f-49fb-a98b-b18f93525a88.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ClFm8+ayHNhsPVJalhIkUi/JLjKCu16Ywr0r4j3mqkY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 09:05:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2a61j2o7cc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Meal_Singlephoto/fdd3d66e-4e0f-49fb-a98b-b18f93525a88.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ClFm8+ayHNhsPVJalhIkUi/JLjKCu16Ywr0r4j3mqkY="
+        }
+      ]
+    },
+    {
+      "Route": "images/Meal_Singlephoto/fdd3d66e-4e0f-49fb-a98b-b18f93525a88.jpg",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\Meal_Singlephoto\\fdd3d66e-4e0f-49fb-a98b-b18f93525a88.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ClFm8+ayHNhsPVJalhIkUi/JLjKCu16Ywr0r4j3mqkY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 09:05:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ClFm8+ayHNhsPVJalhIkUi/JLjKCu16Ywr0r4j3mqkY="
+        }
+      ]
+    },
+    {
       "Route": "images/member_photos/11fc045f-2347-43dd-9a78-560d5b837141.7nr1dct2x8.png",
       "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\11fc045f-2347-43dd-9a78-560d5b837141.png",
       "Selectors": [],
@@ -6726,6 +7428,170 @@
       ]
     },
     {
+      "Route": "images/member_photos/1409fc68-2a5b-4697-ab2f-f7a2e8063fa1.jpg",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\1409fc68-2a5b-4697-ab2f-f7a2e8063fa1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jVkOzfx8WP1b8tUsaj5Xra8ZtU74aAwETgE5k6d+svU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 09:15:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jVkOzfx8WP1b8tUsaj5Xra8ZtU74aAwETgE5k6d+svU="
+        }
+      ]
+    },
+    {
+      "Route": "images/member_photos/1409fc68-2a5b-4697-ab2f-f7a2e8063fa1.lahocw6qcj.jpg",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\1409fc68-2a5b-4697-ab2f-f7a2e8063fa1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jVkOzfx8WP1b8tUsaj5Xra8ZtU74aAwETgE5k6d+svU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 09:15:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lahocw6qcj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/member_photos/1409fc68-2a5b-4697-ab2f-f7a2e8063fa1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jVkOzfx8WP1b8tUsaj5Xra8ZtU74aAwETgE5k6d+svU="
+        }
+      ]
+    },
+    {
+      "Route": "images/member_photos/21eb6166-0861-4638-b383-06807c9a4e6c.3s59u0u62x.jpg",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\21eb6166-0861-4638-b383-06807c9a4e6c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fTypIOu4BjujT67neP3kG1di0mbXZMFNe7CmxaKVC+c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 09:17:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3s59u0u62x"
+        },
+        {
+          "Name": "label",
+          "Value": "images/member_photos/21eb6166-0861-4638-b383-06807c9a4e6c.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fTypIOu4BjujT67neP3kG1di0mbXZMFNe7CmxaKVC+c="
+        }
+      ]
+    },
+    {
+      "Route": "images/member_photos/21eb6166-0861-4638-b383-06807c9a4e6c.jpg",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\21eb6166-0861-4638-b383-06807c9a4e6c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fTypIOu4BjujT67neP3kG1di0mbXZMFNe7CmxaKVC+c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 09:17:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fTypIOu4BjujT67neP3kG1di0mbXZMFNe7CmxaKVC+c="
+        }
+      ]
+    },
+    {
       "Route": "images/member_photos/23d69efd-499f-421b-ae20-e47383972d3d.7y74m9afxo.png",
       "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\23d69efd-499f-421b-ae20-e47383972d3d.png",
       "Selectors": [],
@@ -6804,6 +7670,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-wQQcAUOKUtjPe5pG8/AGR41WuY0zV3dGLodsQrquYR0="
+        }
+      ]
+    },
+    {
+      "Route": "images/member_photos/57a2b3be-8363-4ed4-92ab-57565349a17a.png",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\57a2b3be-8363-4ed4-92ab-57565349a17a.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "429024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2JRkzUhZ2zVyz/Z2yoU22NRxmIL+HUvEq35pc6BGuwc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 08:41:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2JRkzUhZ2zVyz/Z2yoU22NRxmIL+HUvEq35pc6BGuwc="
+        }
+      ]
+    },
+    {
+      "Route": "images/member_photos/57a2b3be-8363-4ed4-92ab-57565349a17a.sf6drugw3v.png",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\57a2b3be-8363-4ed4-92ab-57565349a17a.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "429024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2JRkzUhZ2zVyz/Z2yoU22NRxmIL+HUvEq35pc6BGuwc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 08:41:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sf6drugw3v"
+        },
+        {
+          "Name": "label",
+          "Value": "images/member_photos/57a2b3be-8363-4ed4-92ab-57565349a17a.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2JRkzUhZ2zVyz/Z2yoU22NRxmIL+HUvEq35pc6BGuwc="
         }
       ]
     },
@@ -7054,8 +8002,172 @@
       ]
     },
     {
-      "Route": "images/member_photos/9661fbb7-c652-4b67-a5d9-00be085505de.d8duozzlyr.jpg",
-      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\9661fbb7-c652-4b67-a5d9-00be085505de.jpg",
+      "Route": "images/member_photos/8446e345-176a-45fc-9577-f4e917146f63.exk0ax5adw.jpg",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\8446e345-176a-45fc-9577-f4e917146f63.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8qdmLrs0em4/mEKaNACOGAchLS23H/NotSryHenAzpE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 10:08:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "exk0ax5adw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/member_photos/8446e345-176a-45fc-9577-f4e917146f63.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8qdmLrs0em4/mEKaNACOGAchLS23H/NotSryHenAzpE="
+        }
+      ]
+    },
+    {
+      "Route": "images/member_photos/8446e345-176a-45fc-9577-f4e917146f63.jpg",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\8446e345-176a-45fc-9577-f4e917146f63.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8qdmLrs0em4/mEKaNACOGAchLS23H/NotSryHenAzpE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 10:08:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8qdmLrs0em4/mEKaNACOGAchLS23H/NotSryHenAzpE="
+        }
+      ]
+    },
+    {
+      "Route": "images/member_photos/default-user.jpg",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\default-user.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1483614"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A81sFENIWbtn+eAh0RR1+HD7CX01CPByI+CVyqPwnAc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 02:53:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A81sFENIWbtn+eAh0RR1+HD7CX01CPByI+CVyqPwnAc="
+        }
+      ]
+    },
+    {
+      "Route": "images/member_photos/default-user.nj0pap7hdi.jpg",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\default-user.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1483614"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A81sFENIWbtn+eAh0RR1+HD7CX01CPByI+CVyqPwnAc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 02:53:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nj0pap7hdi"
+        },
+        {
+          "Name": "label",
+          "Value": "images/member_photos/default-user.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A81sFENIWbtn+eAh0RR1+HD7CX01CPByI+CVyqPwnAc="
+        }
+      ]
+    },
+    {
+      "Route": "images/member_photos/efeeccc3-d336-476c-9e2e-f5005e3fd057.d8duozzlyr.jpg",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\efeeccc3-d336-476c-9e2e-f5005e3fd057.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7076,7 +8188,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 28 Jul 2025 09:33:49 GMT"
+          "Value": "Tue, 29 Jul 2025 10:13:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7090,7 +8202,7 @@
         },
         {
           "Name": "label",
-          "Value": "images/member_photos/9661fbb7-c652-4b67-a5d9-00be085505de.jpg"
+          "Value": "images/member_photos/efeeccc3-d336-476c-9e2e-f5005e3fd057.jpg"
         },
         {
           "Name": "integrity",
@@ -7099,8 +8211,8 @@
       ]
     },
     {
-      "Route": "images/member_photos/9661fbb7-c652-4b67-a5d9-00be085505de.jpg",
-      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\9661fbb7-c652-4b67-a5d9-00be085505de.jpg",
+      "Route": "images/member_photos/efeeccc3-d336-476c-9e2e-f5005e3fd057.jpg",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\efeeccc3-d336-476c-9e2e-f5005e3fd057.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7121,7 +8233,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 28 Jul 2025 09:33:49 GMT"
+          "Value": "Tue, 29 Jul 2025 10:13:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7132,88 +8244,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-g232qOmFp1CbiOSHM7rvZjjYwYnbcvc5kg+ywtC1BwA="
-        }
-      ]
-    },
-    {
-      "Route": "images/member_photos/e79af069-9395-4d69-b6ca-26217c67ccee.68tqddcfdq.png",
-      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\e79af069-9395-4d69-b6ca-26217c67ccee.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "211083"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dhdaoSa2Y7Um4CapesT6z99KRhukTTU33qduW2ua/L4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 28 Jul 2025 17:17:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "68tqddcfdq"
-        },
-        {
-          "Name": "label",
-          "Value": "images/member_photos/e79af069-9395-4d69-b6ca-26217c67ccee.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-dhdaoSa2Y7Um4CapesT6z99KRhukTTU33qduW2ua/L4="
-        }
-      ]
-    },
-    {
-      "Route": "images/member_photos/e79af069-9395-4d69-b6ca-26217c67ccee.png",
-      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\e79af069-9395-4d69-b6ca-26217c67ccee.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "211083"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dhdaoSa2Y7Um4CapesT6z99KRhukTTU33qduW2ua/L4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 28 Jul 2025 17:17:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-dhdaoSa2Y7Um4CapesT6z99KRhukTTU33qduW2ua/L4="
         }
       ]
     },

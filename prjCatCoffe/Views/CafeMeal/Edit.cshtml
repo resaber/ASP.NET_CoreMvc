@@ -1,0 +1,122 @@
+﻿@model prjCatCoffe.Models.CafeMeal
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>編輯餐點資訊</h1>
+
+<h4>輸入餐點資訊</h4>
+<hr />
+<form asp-action="Edit" enctype="multipart/form-data">
+    <div class="row">
+        <div class="col-md-4">
+        
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" name="MealId" value="@Model.MealId" />
+
+                @* 選擇你要選擇的餐廳透過CafeId去找C=afe資料表的Name *@
+                <div class="form-group">
+                    <label asp-for="CafeId" class="control-label"></label>
+                    <select asp-for="CafeId" class="form-control" asp-items="ViewBag.CafeList">
+                        <option value="">請選擇餐廳</option>
+                    </select>
+                    <span asp-validation-for="CafeId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="TypeId" class="control-label"></label>
+                    <select asp-for="TypeId" class="form-control" asp-items="ViewBag.TypeList">
+                        <option value="">餐點分類</option>
+                    </select>
+                    <span asp-validation-for="TypeId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="MealName" class="control-label"></label>
+                    <input asp-for="MealName" class="form-control" />
+                    <span asp-validation-for="MealName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Price" class="control-label"></label>
+                    <input asp-for="Price" class="form-control" />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Description" class="control-label"></label>
+                    <input asp-for="Description" class="form-control" />
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+                @* 隱藏圖片*@          
+                <input type="hidden" asp-for="ImageUrl" />
+
+                <div class="form-group">
+                    <label asp-for="CreatedAt" class="control-label"></label>
+                    @Html.TextBoxFor(model => model.CreatedAt, new
+                        {
+                            @class = "form-control",
+                            @readonly = "readonly"
+                        })
+                    <span asp-validation-for="CreatedAt" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="UpdatedAt" class="control-label"></label>
+                    @Html.TextBoxFor(model => model.UpdatedAt, new
+                        {
+                            @class = "form-control",
+                            @readonly = "readonly"                  
+                        })
+                    <span asp-validation-for="UpdatedAt" class="text-danger"></span>
+                </div>
+
+                <div class="form-group form-check">
+                    <label class="form-check-label">
+                        <input class="form-check-input" asp-for="IsActive" /> @Html.DisplayNameFor(model => model.IsActive)
+                    </label>
+                </div>
+
+       
+           
+                <div class="form-group">
+                    <input type="submit" value="送出並儲存" class="btn btn-primary" />
+                </div>
+         
+        </div>
+        <div class="col-md-4 justify-content-center">
+            <h5 class="text-center">預覽餐廳封面照</h5>
+            <div class="rounded p-3 bg-light d-flex justify-content-center">
+
+                <div style="width: 200px; height: 200px; border-radius: 10px; overflow: hidden; border: 3px solid #a8dadc;">
+                    <img id="photoPreview"
+                         src="~/images/Meal_Singlephoto/@Model.ImageUrl"
+                         alt="餐廳封面照預覽"
+                         style="width: 100%; height: 100%; object-fit: cover;" />
+                </div>
+
+            </div>
+            <div class="form-group">
+                <label class="control-label">上傳餐點封面照</label>
+                @* <input type="file" id="imageInput" multiple accept="image/*"> *@
+                <input type="file" name="photo" class="form-control" onchange="previewPhoto(this)" multiple accept=" image /*" />
+            </div>
+        </div>
+    </div>
+ </form>   
+
+<div>
+    <a asp-action="List">取消</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+ 
+    <script>
+        function previewPhoto(input) {
+            if (input.files && input.files[0]) {
+                var reader = new FileReader();
+                reader.onload = function (e) {
+                    document.getElementById("photoPreview").src = e.target.result;
+                };
+                reader.readAsDataURL(input.files[0]);
+            }
+        }
+    </script>
+}

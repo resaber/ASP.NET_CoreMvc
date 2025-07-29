@@ -16,7 +16,9 @@
 
             <div class="form-group">
                 <label asp-for="CaterId" class="control-label"></label>
-                <input asp-for="CaterId" class="form-control" />
+                <select asp-for="CaterId" class="form-control" asp-items="ViewBag.CaterList">
+                    <option value="">請選擇業者</option>
+                </select>
                 <span asp-validation-for="CaterId" class="text-danger"></span>
             </div>
             <div class="form-group">
