@@ -94,6 +94,7 @@ wwwroot\images\Meal_Singlephoto\dccb3f37-09e0-4161-96f4-e803e3ffa28d.jpg
 wwwroot\images\Meal_Singlephoto\fdd3d66e-4e0f-49fb-a98b-b18f93525a88.jpg
 wwwroot\images\member_photos\11fc045f-2347-43dd-9a78-560d5b837141.png
 wwwroot\images\member_photos\1409fc68-2a5b-4697-ab2f-f7a2e8063fa1.jpg
+wwwroot\images\member_photos\14bb967a-0e2f-471c-b21d-91a4a557b89c.jpg
 wwwroot\images\member_photos\21eb6166-0861-4638-b383-06807c9a4e6c.jpg
 wwwroot\images\member_photos\23d69efd-499f-421b-ae20-e47383972d3d.png
 wwwroot\images\member_photos\57a2b3be-8363-4ed4-92ab-57565349a17a.png

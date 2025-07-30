@@ -95,5 +95,21 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "prjCatCoffe.Controllers.API.MemberApiController",
+    "Method": "SearchMembers",
+    "RelativePath": "api/MemberApi/SearchMembers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "keyword",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

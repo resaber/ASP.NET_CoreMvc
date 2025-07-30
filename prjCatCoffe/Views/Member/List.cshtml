@@ -82,7 +82,7 @@
             <th></th>
         </tr>
     </thead>
-    <tbody>
+    <tbody id="tbodyData">
         @{
             int count = 0;
             foreach (var item in Model)
@@ -140,65 +140,135 @@
 @section Scripts{
     <script>
         const selPerson = document.querySelector("#selectPerson");
+        const tBodyData = document.querySelector("#tbodyData");
         //套用IFFE
         //讀出資料把使用者身分顯示 例如這裡只有會員或是業者 依照Member資料表 is_caterer是 0 會員 或是 1業者顯示在select option//串接資料庫資料表 要想一下怎麼做
         (async () => {
-          try {
-            //api路徑
-            const response = await fetch("/api/MemberApi/GetRoles");
-            const datas = await response.json(); //解析拿到JSON
+              try {
+                //api路徑
+                const response = await fetch("/api/MemberApi/GetRoles");
+                const datas = await response.json(); //解析拿到JSON
+            
+                //安全使用避免xss攻擊
+                    datas.forEach(role => {
+                    const option = document.createElement("option");
+                    option.value = role;
+                    option.textContent = role; // 安全插入文字
+                    selPerson.appendChild(option);
 
-            const roleOptionsHtml = datas.map(role => {
-              return `<option value="${role}">${role}</option>`;
+                });
+                //把每個元素拆開
+ 
+              }
+                //撈不到資料時做出的防護機制
+                //也就是說在抓取比如全部 會員 業者身分途中發生錯誤就鎖死
+                catch (err) {
+                console.error("發生錯誤：", err);
+                const errorOption = document.createElement("option");
+                errorOption.disabled = true;
+                //顯示資料載入失敗，使用者也無法點擊selecta
+                errorOption.selected = true;
+                errorOption.textContent = "資料載入失敗";
+
+                selPerson.appendChild(errorOption);
+              }
+            })(); // ✅ 呼叫 IIFE，這是你漏掉的關鍵
+
+            if(selPerson){
+                 //顯示下方table更新資料
+            selPerson.addEventListener("change", async () => {
+             console.log("🔥 change 事件觸發，選到的身分是：", selPerson.value);
+              //去拿option 裡面的Value屬性的值
+              const selectedRole = selPerson.value;
+
+              try {
+
+                const response = await fetch(`/api/MemberApi/GetMembersByRole?role=${selectedRole}`);
+                console.log("⚡ 正在呼叫 API：", `/api/MemberApi/GetMembersByRole?role=${selectedRole}`);
+                const members = await response.json();
+                console.log("📦 取得會員資料：", members);
+
+                const tbody = document.querySelector("tbody");
+
+                let count = 1
+
+                tBodyData.innerHTML = ""; // 清空原本資料
+
+                //防止xss攻擊 避免用innerHTML 修正改寫
+               members.forEach(m => {
+                console.table(m);
+
+                const tr = document.createElement("tr");
+
+                const tdCount = document.createElement("td");
+                tdCount.textContent = count++;
+
+                const tdName = document.createElement("td");
+                tdName.textContent = m.name;
+
+                const tdImg = document.createElement("td");
+                const img = document.createElement("img");
+                img.src = `/images/member_photos/${m.imageUrl || 'default-user.jpg'}`;
+                img.width = 80;
+                img.height = 50;
+                tdImg.appendChild(img);
+
+                const tdAccount = document.createElement("td");
+                tdAccount.textContent = m.account;
+
+                const tdPhone = document.createElement("td");
+                tdPhone.textContent = m.phone;
+
+                const tdGender = document.createElement("td");
+                tdGender.textContent = m.gender === 1 ? '女' : '男';
+
+                const tdEmail = document.createElement("td");
+                tdEmail.textContent = m.email;
+
+                const tdRole = document.createElement("td");
+                //tdStatus.textContent = m.isCaterer ? "業者" : "會員" boolean直接判斷
+                tdRole.textContent = m.isCaterer === true ? '業者' : '會員';
+
+                const tdCreatedAt = document.createElement("td");
+                tdCreatedAt.textContent = m.createdAt;
+
+                const tdUpdatedAt = document.createElement("td");
+                tdUpdatedAt.textContent = m.updatedAt;
+
+                const tdStatus = document.createElement("td");
+                //tdStatus.textContent = m.status ? "啟用" : "停用" boolean直接判斷
+                tdStatus.textContent = m.status === true ? '啟用' : '停用';
+
+                const tdActions = document.createElement("td");
+                const editLink = document.createElement("a");
+                editLink.href = `/Member/Edit/${m.memberId}`;
+                editLink.textContent = "編輯";
+
+                const deleteLink = document.createElement("a");
+                deleteLink.href = `/Member/Delete/${m.memberId}`;
+                deleteLink.textContent = "刪除";
+                deleteLink.onclick = () => confirm("要刪除這筆會員資料嗎?");
+
+                tdActions.appendChild(editLink);
+                tdActions.appendChild(document.createTextNode(" "));
+                tdActions.appendChild(deleteLink);
+
+                tr.append(
+                  tdCount, tdName, tdImg, tdAccount, tdPhone,
+                  tdGender, tdEmail, tdRole, tdCreatedAt,
+                  tdUpdatedAt, tdStatus, tdActions
+                );
+
+                    tBodyData.appendChild(tr);
+
+                })
+
+                } catch (err) {
+                console.error("讀取會員清單失敗", err);
+                }
             });
-            //把每個元素拆開
-            selPerson.innerHTML += roleOptionsHtml.join('');
-          } catch (err) {
-            console.error("發生錯誤：", err);
-            selPerson.innerHTML = `<option disabled>資料載入失敗</option>`;
-          }
-        })(); // ✅ 呼叫 IIFE，這是你漏掉的關鍵
-
-
-        //顯示下方table更新資料
-        selPerson.addEventListener("change", async () => {
-          //去拿option 裡面的Value屬性的值
-          const selectedRole = selPerson.value;
-
-          try {
-              
-            const response = await fetch(`/api/MemberApi/GetMembersByRole?role=${selectedRole}`);
-            const members = await response.json();
-
-            const tbody = document.querySelector("tbody");
-            let count = 1;
-
-            const rowsHtml = members.map(m => {
-              return `
-                <tr>
-                  <td>${count++}</td>
-                  <td>${m.name}</td>
-                  <td><img src="/images/member_photos/${m.imageUrl || 'default-user.jpg'}" width="80" height="50"/></td>
-                  <td>${m.account}</td>
-                  <td>${m.phone}</td>
-                  <td>${m.gender === 1 ? '女' : '男'}</td>
-                  <td>${m.email}</td>
-                  <td>${m.isCaterer ? '業者' : '會員'}</td>
-                  <td>${m.createdAt}</td>
-                  <td>${m.updatedAt}</td>
-                  <td>${m.status ? '啟用' : '停用'}</td>
-                  <td>
-                    <a href="/Member/Edit/${m.memberId}">編輯</a>
-                    <a href="/Member/Delete/${m.memberId}" onclick="return confirm('要刪除這筆會員資料嗎?')">刪除</a>
-                  </td>
-                </tr>
-              `;
-            });
-
-            tbody.innerHTML = rowsHtml.join('');
-          } catch (err) {
-            console.error("讀取會員清單失敗", err);
-          }
-        });
+         }
+      
+         const textKeyWord = document.querySelector('#txtKeyword');
     </script>
 }
