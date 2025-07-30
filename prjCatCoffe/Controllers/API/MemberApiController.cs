@@ -48,22 +48,29 @@ namespace prjCatCoffe.Controllers.API
             return Ok(members); // 會自動轉成 JSON
         }
 
-
         [HttpGet]
         public IActionResult SearchMembers(string keyword)
         {
             var result = _context.Members
                 .Where(m => m.Name.Contains(keyword)) // 篩選名字中有 keyword 的人
-                .Select(m => new {
+                .Select(m => new
+                {
                     m.MemberId,
-                    m.Name
+                    m.Name,
+                    m.ImageUrl,
+                    m.Account,
+                    m.Phone,
+                    m.Gender,
+                    m.Email,
+                    m.IsCaterer,
+                    m.CreatedAt,
+                    m.UpdatedAt,
+                    m.Status
                 })
                 .ToList();
 
             return Ok(result); // 回傳 JSON 格式資料
         }
-
-
 
         // POST api/<MemberApiController>
         [HttpPost]

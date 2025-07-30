@@ -10,9 +10,27 @@
 <div class="bar d-flex align-items-center gap-2">
     @using (Html.BeginForm())
     {
-        <div class="d-flex align-items-center gap-2">
+        <div class="d-flex align-items-center gap-2 position-relative">
             <label for="txtKeyword">關鍵字</label>
-            @Html.TextBox("txtKeyword", null, new { @class = "form-control", @style = "width: 150px;" })
+
+            <div style="position: relative; width: 150px;">
+                @Html.TextBox("txtKeyword", null, new
+                    {
+                        @class = "form-control",
+                        autocomplete = "off",
+                        @style = "width: 100%;"
+                    })
+
+                @* 動態搜尋結果  對應到*@
+                <ul id="suggestList"
+                    class="list-group position-absolute"
+                @* 動態搜尋結果 先不顯示等使用者輸入文字再顯示*@
+                    style="z-index: 1000; width: 150px;  top: 100%; left: 0; background-color: white; display: none;">
+                </ul>
+            </div>
+        
+           
+
             <input type="submit" value="查詢" class="btn btn-primary" />
         </div>
     }
@@ -187,17 +205,86 @@
                 console.log("⚡ 正在呼叫 API：", `/api/MemberApi/GetMembersByRole?role=${selectedRole}`);
                 const members = await response.json();
                 console.log("📦 取得會員資料：", members);
+                renderTable(members);//用method 支撐渲染邏輯
+              } 
+              catch (err) {
+                console.error("讀取會員清單失敗", err);
+                }
+            });
+         }
+      
 
-                const tbody = document.querySelector("tbody");
+         //動態搜尋結果
+         const txtKeyWord = document.querySelector('#txtKeyword');
+         const suggestList = document.querySelector("#suggestList");
+         //使用者輸入文字時 不為空
+         if(txtKeyword){
+             //每當輸入有更動時 包含打字 刪除
+             txtKeyWord.addEventListener("input",async()=>{
+                 //把空白鍵去除 避免觸發 搜尋功能
+                 const keyword = txtKeyword.value.trim();
 
-                let count = 1
+                 //如果關鍵字長度是0 suggestList依然不顯示
+                if (keyword.length === 0) {
+                  suggestList.innerHTML = "";
+                  suggestList.style.display = "none";
+                  console.log("打空白字元或是沒輸入東西 不會出現1");
+                  return;
+                  console.log("Test 確實返回，不會出現2");
 
-                tBodyData.innerHTML = ""; // 清空原本資料
+                 }
 
-                //防止xss攻擊 避免用innerHTML 修正改寫
-               members.forEach(m => {
-                console.table(m);
+                 //fetch API
+                 try{
+                     //encodeURIComponent 把中文字或特殊符號也能到後端做查詢
+                     const response = await fetch(`/api/MemberApi/SearchMembers?keyword=${encodeURIComponent(keyword)}`);
+                     const members = await response.json(); //把回傳的會員資料Promise 做解析JSON 轉成JS物件陣列做操作
+                     console.log("動態搜尋取得的 members：", members); // ← 這裡加上 log
+                    // 清空舊內容 沒有對應的會員則仍然不用顯示 return nothing
+                    suggestList.innerHTML = "";
 
+
+                    if (members.length === 0) {
+                        suggestList.style.display = "none";
+                        return;
+                    }
+
+                    // 每筆會員建立li 標籤 做顯示
+                    members.forEach(m => {
+                        const li = document.createElement("li");
+                        li.className = "list-group-item list-group-item-action";
+                        li.textContent = m.name;
+
+                        li.addEventListener('click', () =>{
+                            txtKeyWord.value = m.name;
+                            suggestList.innerHTML="";
+                            suggestList.style.display = 'none';
+                            console.log("Test點擊的會員物件：", m);
+                            renderTable([m]); // 顯示這個會員的詳細資料
+
+                        });
+
+                        suggestList.appendChild(li);
+                        //渲染members
+                        renderTable(members);
+                    });
+                    suggestList.style.display = "block";
+                    
+                 }catch(err){
+                 }
+             });
+         }
+         //根據關鍵字載入資料表
+        function renderTable(members) {
+            // 渲染邏輯
+            
+              tBodyData.innerHTML = ""; //清空所有tbody 內容
+
+
+              //正式放資料
+              let count = 1;
+
+            members.forEach(m => {
                 const tr = document.createElement("tr");
 
                 const tdCount = document.createElement("td");
@@ -226,7 +313,6 @@
                 tdEmail.textContent = m.email;
 
                 const tdRole = document.createElement("td");
-                //tdStatus.textContent = m.isCaterer ? "業者" : "會員" boolean直接判斷
                 tdRole.textContent = m.isCaterer === true ? '業者' : '會員';
 
                 const tdCreatedAt = document.createElement("td");
@@ -236,7 +322,6 @@
                 tdUpdatedAt.textContent = m.updatedAt;
 
                 const tdStatus = document.createElement("td");
-                //tdStatus.textContent = m.status ? "啟用" : "停用" boolean直接判斷
                 tdStatus.textContent = m.status === true ? '啟用' : '停用';
 
                 const tdActions = document.createElement("td");
@@ -254,21 +339,14 @@
                 tdActions.appendChild(deleteLink);
 
                 tr.append(
-                  tdCount, tdName, tdImg, tdAccount, tdPhone,
-                  tdGender, tdEmail, tdRole, tdCreatedAt,
-                  tdUpdatedAt, tdStatus, tdActions
+                tdCount, tdName, tdImg, tdAccount, tdPhone,
+                tdGender, tdEmail, tdRole, tdCreatedAt,
+                tdUpdatedAt, tdStatus, tdActions
                 );
 
-                    tBodyData.appendChild(tr);
-
-                })
-
-                } catch (err) {
-                console.error("讀取會員清單失敗", err);
-                }
+                tBodyData.appendChild(tr);
             });
-         }
-      
-         const textKeyWord = document.querySelector('#txtKeyword');
+
+        }
     </script>
 }

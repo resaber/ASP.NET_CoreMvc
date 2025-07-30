@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "24InY6oa2ZBPY3l6026bzMnkbT0uy7beeDAZqvDTYWs=",
+  "Hash": "9Me54vEa9Ytm//1UkkJ0SAN/FoOzMYTjLkE7mOxX7nQ=",
   "Source": "prjCatCoffe",
   "BasePath": "_content/prjCatCoffe",
   "Mode": "Default",
@@ -2283,6 +2283,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\member_photos\\8446e345-176a-45fc-9577-f4e917146f63.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\916d43a9-917d-4359-adb8-35a428ace9b2.jpg",
+      "SourceId": "prjCatCoffe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\",
+      "BasePath": "_content/prjCatCoffe",
+      "RelativePath": "images/member_photos/916d43a9-917d-4359-adb8-35a428ace9b2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rt9ufovr54",
+      "Integrity": "PwweE/li2M10nodWJ8mEav2e7024fxtNzZR4jLZCUdU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\member_photos\\916d43a9-917d-4359-adb8-35a428ace9b2.jpg"
     },
     {
       "Identity": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\default-user.jpg",
@@ -8286,6 +8307,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-8qdmLrs0em4/mEKaNACOGAchLS23H/NotSryHenAzpE="
+        }
+      ]
+    },
+    {
+      "Route": "images/member_photos/916d43a9-917d-4359-adb8-35a428ace9b2.jpg",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\916d43a9-917d-4359-adb8-35a428ace9b2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2791"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PwweE/li2M10nodWJ8mEav2e7024fxtNzZR4jLZCUdU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 07:27:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PwweE/li2M10nodWJ8mEav2e7024fxtNzZR4jLZCUdU="
+        }
+      ]
+    },
+    {
+      "Route": "images/member_photos/916d43a9-917d-4359-adb8-35a428ace9b2.rt9ufovr54.jpg",
+      "AssetFile": "C:\\Users\\yozora\\Desktop\\ASP_MVC_Core專案\\slnCatCoffe\\prjCatCoffe\\wwwroot\\images\\member_photos\\916d43a9-917d-4359-adb8-35a428ace9b2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2791"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PwweE/li2M10nodWJ8mEav2e7024fxtNzZR4jLZCUdU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 07:27:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rt9ufovr54"
+        },
+        {
+          "Name": "label",
+          "Value": "images/member_photos/916d43a9-917d-4359-adb8-35a428ace9b2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PwweE/li2M10nodWJ8mEav2e7024fxtNzZR4jLZCUdU="
         }
       ]
     },

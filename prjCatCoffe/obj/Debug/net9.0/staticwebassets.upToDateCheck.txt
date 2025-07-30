@@ -102,6 +102,7 @@ wwwroot\images\member_photos\62d3604f-2c26-4246-bac5-9d0993095d95.png
 wwwroot\images\member_photos\70b9e4a5-bbaa-4ca3-a1ad-0435f5a7fe73.jpg
 wwwroot\images\member_photos\7973112d-e361-41a9-807a-3de930e1aff3.png
 wwwroot\images\member_photos\8446e345-176a-45fc-9577-f4e917146f63.jpg
+wwwroot\images\member_photos\916d43a9-917d-4359-adb8-35a428ace9b2.jpg
 wwwroot\images\member_photos\default-user.jpg
 wwwroot\images\member_photos\efeeccc3-d336-476c-9e2e-f5005e3fd057.jpg
 wwwroot\js\site.js
