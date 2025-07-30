@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("prjCatCoffe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abb51e4ff4a1166ce4b4fc94a73abd15eb30cc50")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc799947d717746ab29a424cb013597de71ba44a")]
 [assembly: System.Reflection.AssemblyProductAttribute("prjCatCoffe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("prjCatCoffe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

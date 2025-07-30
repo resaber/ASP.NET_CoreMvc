@@ -215,7 +215,7 @@
       
 
          //動態搜尋結果
-         const txtKeyWord = document.querySelector('#txtKeyword');
+         const txtKeyWord  = document.querySelector('#txtKeyword');
          const suggestList = document.querySelector("#suggestList");
          //使用者輸入文字時 不為空
          if(txtKeyword){
@@ -348,5 +348,15 @@
             });
 
         }
+
+        // ✅ 點擊輸入框或建議清單以外的地方時，隱藏建議清單（不重載資料表）
+        document.addEventListener('click', function (e) {
+            const isInsideInput = txtKeyWord && txtKeyWord.contains(e.target);
+            const isInsideSuggestList = suggestList && suggestList.contains(e.target);
+
+            if (!isInsideInput && !isInsideSuggestList) {
+                suggestList.style.display = 'none';
+            }
+        });
     </script>
 }
